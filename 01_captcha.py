@@ -2,3 +2,10 @@ string = "2373699914823461246633952863546729854573268657485334121797781883978352
 
 suma = int()
 
+before = string[-1]
+
+for char in string:
+    if before == char:
+        suma += int(char)
+    print(suma, "=", before, char)
+    before = char
