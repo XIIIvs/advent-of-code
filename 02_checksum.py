@@ -17,10 +17,26 @@ rows = [
     [4463, 4757, 201, 186, 3812, 2413, 2085, 4685, 5294, 5755, 2898, 200, 5536, 5226, 1028, 180]
 ]
 
-checksum = int()
+# checksum = int()
+all_results = list()
 
 for row in rows:
-    minimal = min(row)
-    maximal = max(row)
-    checksum += (maximal - minimal)
-    print(checksum, "=", maximal, minimal)
+    # minimal = min(row)
+    # maximal = max(row)
+    # checksum += (maximal - minimal)
+    # print(checksum, "=", maximal, minimal)
+
+    results = list()
+
+    for digit in row:
+        index = row.index(digit)
+        for other in row[index+1:]:
+            if digit > other:
+                result = digit / other
+            else:
+                result = other / digit
+            if result == int(result):
+                results.append(result)
+    print(results)
+    all_results += results
+print(sum(all_results))
