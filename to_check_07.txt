@@ -1,0 +1,1912 @@
+cascade keys: 485 in cascade: 1421
+cascade keys: 118 in cascade: 484
+cascade keys: 28 in cascade: 117
+cascade keys: 8 in cascade: 27
+cascade keys: 1 in cascade: 7
+aaeeqh -> 68 ( 248 )
+ - {'fserz': 90, 'nmyem': 90}
+aaroa -> 121 ( 121 )
+acgef -> 17 ( 17 )
+acrly -> 75 ( 75 )
+actlu -> 15 ( 15 )
+adyni -> 11474 ( 13184 )
+ - {'lxuiwb': 285, 'kmjqzw': 285, 'joxzy': 285, 'vznfkp': 285, 'blwaz': 285, 'mxoxo': 285}
+adzvlgk -> 63 ( 63 )
+aebhvbk -> 92 ( 92 )
+aenrksb -> 12 ( 12 )
+aenvjl -> 34 ( 223 )
+ - {'qreeg': 63, 'rknadpx': 63, 'wevbhta': 63}
+aflzz -> 1359 ( 1549 )
+ - {'uyuyq': 95, 'pkhvge': 95}
+aftndu -> 11 ( 209 )
+ - {'xckzcq': 66, 'oblhfhz': 66, 'cymvz': 66}
+ahmknyy -> 637 ( 2272 )
+ - {'wjmbivd': 327, 'oujtz': 327, 'qkqyelb': 327, 'vtdyp': 327, 'bfnkr': 327}
+ahnkcy -> 83 ( 83 )
+ahrfh -> 2040 ( 2070 )
+ - {'actlu': 15, 'yyfrmb': 15}
+ahrynjm -> 12 ( 12 )
+aijmghs -> 28 ( 28 )
+aiwqhey -> 53 ( 53 )
+ajmtxv -> 267 ( 375 )
+ - {'sjmci': 54, 'yhdjwd': 54}
+ajxmlfp -> 225 ( 291 )
+ - {'yanat': 33, 'lvihecc': 33}
+akxtfh -> 57 ( 57 )
+alcioc -> 314 ( 314 )
+alhkjxm -> 67 ( 221 )
+ - {'qqncuk': 77, 'lywsab': 77}
+amgrlkr -> 75 ( 75 )
+amhthnw -> 43 ( 43 )
+ancmoj -> 74 ( 74 )
+angyt -> 75 ( 75 )
+aodkqlr -> 185 ( 261 )
+ - {'ymxpav': 38, 'kbmrrew': 38}
+apkfhsb -> 36 ( 124 )
+ - {'mwknwxh': 44, 'mqrvu': 44}
+aqcwqy -> 101 ( 255 )
+ - {'httgiox': 77, 'orbwii': 77}
+aqdjk -> 80 ( 80 )
+aqubpi -> 11 ( 11 )
+aqxdf -> 16 ( 16 )
+arbrp -> 48 ( 190 )
+ - {'vlysbd': 71, 'njkxh': 71}
+argdqd -> 65 ( 65 )
+asbiye -> 18 ( 18 )
+ashxpav -> 59 ( 1877 )
+ - {'sydqf': 303, 'stgickl': 303, 'qnblxrh': 303, 'xgpmq': 303, 'quybmbk': 303, 'ysfevlj': 303}
+asihmc -> 32 ( 32 )
+aspoy -> 63 ( 63 )
+aubapo -> 11 ( 11 )
+avflv -> 46 ( 46 )
+avjfqex -> 74 ( 74 )
+avpklqy -> 68 ( 48284 )
+ - {'tkoxc': 16072, 'werlnym': 16072, 'iquxck': 16072}
+avroyn -> 58 ( 58 )
+awclg -> 49 ( 49 )
+awysiko -> 93 ( 381 )
+ - {'cjnab': 72, 'qorpdxg': 72, 'ccdpnr': 72, 'evwtu': 72}
+axfvokp -> 35 ( 35 )
+axjcbuj -> 35 ( 35 )
+axjqq -> 106 ( 220 )
+ - {'fufjkl': 57, 'xrppd': 57}
+axnwb -> 97 ( 97 )
+azbjh -> 43 ( 43 )
+azfkwzp -> 339 ( 381 )
+ - {'eflcxi': 21, 'mgwbaj': 21}
+azvltq -> 72 ( 72 )
+azxoyif -> 1368 ( 1833 )
+ - {'plysamb': 155, 'irgkfsa': 155, 'dkohgp': 155}
+azycte -> 298 ( 298 )
+azysfe -> 45 ( 45 )
+baljt -> 18 ( 18 )
+bapvqa -> 93 ( 93 )
+basiy -> 133 ( 299 )
+ - {'qifofxk': 83, 'qutgb': 83}
+bbiczh -> 13 ( 13 )
+bbueq -> 52 ( 52 )
+bcwbp -> 43 ( 43 )
+bcxnm -> 83 ( 83 )
+bddii -> 60 ( 60 )
+bdohoaa -> 18440 ( 48284 )
+ - {'ppsnn': 9948, 'lxjbzu': 9948, 'hatfl': 9948}
+bdslm -> 59 ( 59 )
+beyphy -> 221 ( 291 )
+ - {'ojnrf': 35, 'cwfgzrp': 35}
+bfaak -> 89 ( 89 )
+bfioj -> 56 ( 56 )
+bfkdbeh -> 162 ( 202 )
+ - {'blmsqb': 10, 'vzeuayg': 10, 'kbpnl': 10, 'viubix': 10}
+bfnkr -> 132 ( 327 )
+ - {'wlodpu': 65, 'hcpim': 65, 'wavmnm': 65}
+bhfeafe -> 91 ( 259 )
+ - {'ruzgpq': 84, 'pfgsvs': 84}
+bhtoyru -> 186 ( 426 )
+ - {'icxhhje': 80, 'ighndd': 80, 'fbdrf': 80}
+bhwxgp -> 74 ( 74 )
+bilxm -> 96 ( 96 )
+birvaha -> 275 ( 335 )
+ - {'koyzdbq': 20, 'jggzx': 20, 'odirpnl': 20}
+bjdlb -> 50 ( 156 )
+ - {'yonojr': 53, 'fwubo': 53}
+bjtlzzh -> 133 ( 317 )
+ - {'rgzch': 92, 'syfccrr': 92}
+bjwgltq -> 61 ( 61 )
+bjzlgik -> 154 ( 244 )
+ - {'iondfqm': 45, 'izkhkai': 45}
+bkrbfap -> 96 ( 96 )
+bkrctx -> 84 ( 372 )
+ - {'usevrmp': 96, 'bkrbfap': 96, 'weaier': 96}
+blbzqf -> 209 ( 293 )
+ - {'yqeuhw': 42, 'vnlcfxn': 42}
+blmsqb -> 10 ( 10 )
+blwaz -> 247 ( 285 )
+ - {'nebitb': 19, 'vrndjn': 19}
+blwxqfp -> 10 ( 10 )
+bmcsya -> 85 ( 85 )
+bmzlp -> 83 ( 83 )
+bokni -> 97 ( 97 )
+bonoob -> 78 ( 78 )
+bqjypo -> 23 ( 23 )
+bqwgm -> 78 ( 78 )
+brdpdm -> 34 ( 34 )
+brnqhc -> 70 ( 314 )
+ - {'xnfstk': 61, 'neclo': 61, 'ppstt': 61, 'ktyyedq': 61}
+bsmryo -> 22 ( 22 )
+bsoesu -> 47 ( 225 )
+ - {'mhdauqb': 89, 'bfaak': 89}
+btpbnr -> 31 ( 31 )
+btyotwv -> 139 ( 211 )
+ - {'ctytwcc': 18, 'asbiye': 18, 'swwtm': 18, 'nmvqwi': 18}
+busosd -> 55 ( 55 )
+butfc -> 58 ( 211 )
+ - {'hbzkf': 51, 'ytbwqwb': 51, 'nhbff': 51}
+bvdnvep -> 18 ( 18 )
+bvfee -> 35 ( 35 )
+bvgct -> 69 ( 69 )
+bvoqpkb -> 18 ( 18 )
+bwhjal -> 68 ( 68 )
+bwkwgf -> 206 ( 2074 )
+ - {'rlfbix': 467, 'itzdby': 467, 'huhxf': 467, 'txzlem': 467}
+bwntinc -> 13 ( 13 )
+bwyjnu -> 60 ( 176 )
+ - {'pzuxx': 58, 'mdfjh': 58}
+bxdbijl -> 63 ( 63 )
+bxqdudx -> 195 ( 267 )
+ - {'dyacjh': 24, 'nsecr': 24, 'unfpyg': 24}
+byfbs -> 58 ( 58 )
+byhatd -> 1716 ( 2673 )
+ - {'tqyte': 319, 'zeenwpx': 319, 'nrgwyzb': 319}
+bywohrp -> 59 ( 59 )
+byymvpo -> 68 ( 68 )
+bzvqqp -> 86 ( 264 )
+ - {'gzakvk': 89, 'vjmzqbb': 89}
+cawvue -> 81 ( 209 )
+ - {'vkpnxs': 64, 'cslrgbh': 64}
+cayxz -> 33 ( 151 )
+ - {'twngkp': 59, 'nplbgrk': 59}
+ccdpnr -> 72 ( 72 )
+cdovdt -> 410 ( 410 )
+cebdo -> 17 ( 17 )
+cexrf -> 72 ( 72 )
+cfihl -> 49 ( 49 )
+cfyuogb -> 13 ( 94 )
+ - {'hlyodf': 27, 'qsewkq': 27, 'tvtgaan': 27}
+cgagfib -> 95 ( 95 )
+cghtkzr -> 418 ( 1474 )
+ - {'ovkpba': 352, 'holuib': 352, 'ifvkdba': 352}
+cgnewz -> 179 ( 2202 )
+ - {'mevdoy': 289, 'gounu': 289, 'icflka': 289, 'yusue': 289, 'gvgnev': 289, 'zbjdebj': 289, 'etfbf': 289}
+cgwnor -> 89 ( 89 )
+chrzza -> 66 ( 1474 )
+ - {'nwhunwf': 352, 'igbqenq': 352, 'pnfwlas': 352, 'hmytpw': 352}
+cidfent -> 104 ( 212 )
+ - {'zapjqj': 54, 'gaspe': 54}
+civhlqc -> 79 ( 79 )
+cixqrb -> 62 ( 62 )
+cjinsf -> 80 ( 184 )
+ - {'wwyuko': 52, 'renqhyi': 52}
+cjnab -> 72 ( 72 )
+cjnkge -> 34 ( 34 )
+cjnwipw -> 10 ( 10 )
+ckakkja -> 38 ( 410 )
+ - {'bapvqa': 93, 'siulcz': 93, 'fqbovid': 93, 'pwajo': 93}
+ckdwk -> 104 ( 244 )
+ - {'wlxwq': 70, 'vuldc': 70}
+ckgotfs -> 94 ( 286 )
+ - {'bilxm': 96, 'emcjby': 96}
+ckswfrb -> 48 ( 48 )
+ckyoc -> 40 ( 40 )
+clrfkgl -> 32 ( 32 )
+clwbp -> 45 ( 45 )
+cndqzdm -> 50 ( 50 )
+cnhsgdv -> 264 ( 264 )
+cnvir -> 249 ( 259 )
+ - {'fjrwy': 5, 'zghut': 5}
+cnxyhg -> 50 ( 50 )
+cpmxvjn -> 92 ( 92 )
+cprsra -> 32 ( 32 )
+cqdyyoo -> 401 ( 401 )
+cqnlk -> 229 ( 263 )
+ - {'lpvqp': 17, 'pdowqq': 17}
+cqxav -> 72 ( 72 )
+crlkolg -> 36 ( 36 )
+crxji -> 97 ( 97 )
+csdrrx -> 323 ( 381 )
+ - {'rwkuzs': 29, 'jbdtgk': 29}
+cslrgbh -> 64 ( 64 )
+csvni -> 19 ( 19 )
+ctdghk -> 57 ( 57 )
+ctjnwq -> 22 ( 212 )
+ - {'tasqwda': 95, 'qfybq': 95}
+ctoruu -> 72 ( 216 )
+ - {'ynxjgv': 72, 'cexrf': 72}
+ctxwkkt -> 25 ( 25 )
+ctytwcc -> 18 ( 18 )
+cufau -> 88 ( 88 )
+cujdv -> 18 ( 18 )
+cujtqk -> 74 ( 74 )
+cwehc -> 29 ( 29 )
+cwfgzrp -> 35 ( 35 )
+cwgux -> 18 ( 18 )
+cwkdjn -> 29 ( 29 )
+cwwpev -> 17 ( 17 )
+cxapyp -> 261 ( 1044 )
+ - {'ralmgdq': 261, 'aodkqlr': 261, 'lmxvhwl': 261}
+cxflah -> 122 ( 186 )
+ - {'oxyltk': 32, 'clrfkgl': 32}
+cyjcaht -> 13 ( 13 )
+cymvz -> 66 ( 66 )
+cyrqkl -> 86 ( 86 )
+czvdrpq -> 8 ( 8 )
+daiyp -> 133 ( 223 )
+ - {'azysfe': 45, 'clwbp': 45}
+dapds -> 32 ( 32 )
+darwcoj -> 2168 ( 10424 )
+ - {'juqrwwm': 1376, 'nrevor': 1376, 'pndayy': 1376, 'igrahel': 1376, 'dmkji': 1376, 'yffnz': 1376}
+dbbsyeo -> 79 ( 253 )
+ - {'nkfpci': 87, 'jldgbkx': 87}
+dbrxe -> 69 ( 69 )
+dbsbuqp -> 97 ( 263 )
+ - {'ebootd': 83, 'ahnkcy': 83}
+dejsmq -> 41 ( 41 )
+deqcnp -> 142 ( 226 )
+ - {'ovzcdi': 42, 'ivrnod': 42}
+dfqvxnn -> 73 ( 73 )
+dfykpx -> 59 ( 59 )
+dfywfie -> 63 ( 257 )
+ - {'nfvliuy': 97, 'risguql': 97}
+dgjqciq -> 24 ( 24 )
+dgyjldr -> 62 ( 62 )
+dhmhbw -> 50 ( 50 )
+dhpviei -> 25 ( 25 )
+dhrun -> 37 ( 37 )
+digpoav -> 61 ( 157 )
+ - {'jwutq': 32, 'uxddlkq': 32, 'dapds': 32}
+dihezs -> 91 ( 91 )
+dijeym -> 61 ( 61 )
+djkaku -> 44 ( 44 )
+djpvps -> 31 ( 31 )
+djsexcr -> 22 ( 22 )
+dkcrll -> 47 ( 47 )
+dkgsxvj -> 5 ( 195 )
+ - {'hafgurf': 95, 'qmygary': 95}
+dkjfjwe -> 146 ( 184 )
+ - {'sxzwplf': 19, 'ehnlfa': 19}
+dkjsfxs -> 59 ( 59 )
+dknly -> 78 ( 78 )
+dkohgp -> 119 ( 155 )
+ - {'bvoqpkb': 18, 'cwgux': 18}
+dlbsqa -> 96 ( 96 )
+dlodc -> 70 ( 248 )
+ - {'xbiuhd': 89, 'zhpmkq': 89}
+dmkji -> 1094 ( 1376 )
+ - {'cfyuogb': 94, 'hdkvbzv': 94, 'puxlsjo': 94}
+dnlao -> 51 ( 51 )
+dqvygcd -> 14 ( 14 )
+drjmjug -> 428 ( 2078 )
+ - {'sbogacc': 330, 'jdvxawc': 330, 'wlczi': 330, 'goiwg': 330, 'vinbva': 330}
+drvxvk -> 102 ( 268 )
+ - {'bmzlp': 83, 'elpfsya': 83}
+dukup -> 72 ( 72 )
+dvhcixe -> 17 ( 17 )
+dvltfhm -> 54 ( 13184 )
+ - {'whrdhq': 2626, 'vhusoux': 2626, 'pooon': 2626, 'owjjja': 2626, 'fagyf': 2626}
+dvpay -> 74 ( 74 )
+dwhxnif -> 88 ( 88 )
+dwnys -> 55 ( 55 )
+dxlttzs -> 70 ( 70 )
+dyaayff -> 77 ( 77 )
+dyacjh -> 24 ( 24 )
+dyxtot -> 51 ( 51 )
+dzrsha -> 78 ( 78 )
+eatoyd -> 91 ( 91 )
+ebeitz -> 1424 ( 2484 )
+ - {'fjkjmhd': 212, 'ctjnwq': 212, 'cidfent': 212, 'utdhy': 212, 'hfzyzt': 212}
+ebootd -> 83 ( 83 )
+edaslb -> 190 ( 344 )
+ - {'qbqjz': 77, 'robfhmz': 77}
+edbemy -> 286 ( 286 )
+edmfm -> 80 ( 80 )
+edvqwvm -> 60 ( 60 )
+eevyny -> 77 ( 77 )
+eflcxi -> 21 ( 21 )
+eghfd -> 13 ( 13 )
+egrlfh -> 20 ( 20 )
+ehefb -> 2158 ( 2272 )
+ - {'uxqlce': 57, 'akxtfh': 57}
+ehnlfa -> 19 ( 19 )
+ehravmh -> 37 ( 37 )
+eihkuqx -> 17 ( 17 )
+elcvqr -> 19 ( 19 )
+eledia -> 6 ( 80 )
+ - {'maqzwn': 37, 'iplfnd': 37}
+elpfsya -> 83 ( 83 )
+emcjby -> 96 ( 96 )
+emigqf -> 46 ( 46 )
+enkufi -> 62 ( 426 )
+ - {'dihezs': 91, 'srpcy': 91, 'vurdsd': 91, 'xzcix': 91}
+eolll -> 16 ( 16 )
+eooiuq -> 54 ( 10424 )
+ - {'qanpeab': 2074, 'gperhh': 2074, 'qiqjmmi': 2074, 'bwkwgf': 2074, 'jgmyc': 2074}
+eoxubh -> 92 ( 92 )
+epblwo -> 314 ( 372 )
+ - {'mryuhsl': 29, 'ysnwjl': 29}
+eppzprf -> 120 ( 176 )
+ - {'pbxguu': 28, 'zvbnb': 28}
+epubm -> 92 ( 92 )
+eqmkgj -> 93 ( 93 )
+eqreeik -> 27 ( 291 )
+ - {'ykuzfu': 66, 'ffrjb': 66, 'lvuah': 66, 'vrezl': 66}
+eqtmes -> 47 ( 47 )
+eqxce -> 23 ( 2033 )
+ - {'yrtlizo': 335, 'wwoye': 335, 'kridw': 335, 'qtatze': 335, 'birvaha': 335, 'qkseme': 335}
+etfbf -> 239 ( 289 )
+ - {'oitpd': 25, 'nhxyn': 25}
+etfnmle -> 76 ( 76 )
+etyqg -> 71 ( 71 )
+euezshv -> 65 ( 65 )
+eugwuhl -> 18 ( 338014 )
+ - {'tchfafn': 48284, 'pvvbn': 48284, 'bdohoaa': 48284, 'tytbgx': 48284, 'avpklqy': 48284, 'hgizeb': 48284, 'smaygo': 48292}
+eunfszw -> 28 ( 28 )
+euqxp -> 77 ( 77 )
+evhgkft -> 19 ( 19 )
+evmkzjr -> 8 ( 8 )
+evpav -> 31 ( 31 )
+evqfv -> 62 ( 62 )
+evwtu -> 72 ( 72 )
+ewalq -> 70 ( 70 )
+eyfvei -> 103 ( 299 )
+ - {'zgxczmq': 98, 'lnreval': 98}
+eymlu -> 58 ( 58 )
+ezgvb -> 20 ( 20 )
+ezwitpp -> 123 ( 750 )
+ - {'qchxbon': 209, 'aftndu': 209, 'urxzo': 209}
+fagyf -> 589 ( 2626 )
+ - {'ajxmlfp': 291, 'beyphy': 291, 'wklmecc': 291, 'eqreeik': 291, 'khbpnx': 291, 'iegjd': 291, 'jjxcsxg': 291}
+fapkonf -> 3295 ( 5545 )
+ - {'ezwitpp': 750, 'hmlvv': 750, 'xppkv': 750}
+fausgp -> 32 ( 32 )
+fbdrf -> 80 ( 80 )
+fbnbt -> 5262 ( 14556 )
+ - {'lcmek': 1549, 'rqgccu': 1549, 'ojkhavf': 1549, 'vxfpzku': 1549, 'aflzz': 1549, 'yvixrl': 1549}
+fcbeagx -> 16 ( 16 )
+fcdww -> 40 ( 40 )
+fczix -> 226 ( 290 )
+ - {'yvdilfo': 32, 'cprsra': 32}
+fdurqvg -> 198 ( 354 )
+ - {'trnpdnb': 78, 'ijlmcnx': 78}
+fdvgk -> 63 ( 63 )
+ffcwobn -> 71 ( 71 )
+ffejzo -> 70 ( 156 )
+ - {'rdfab': 43, 'lcourm': 43}
+ffrjb -> 66 ( 66 )
+fhbjovx -> 1553 ( 2033 )
+ - {'tmmwda': 160, 'yibbu': 160, 'tzpxj': 160}
+fhsdpg -> 143 ( 283 )
+ - {'lncdocs': 70, 'xubhat': 70}
+fixsej -> 22 ( 22 )
+fjhht -> 193 ( 227 )
+ - {'hphzmhs': 17, 'ieqgany': 17}
+fjkjmhd -> 192 ( 212 )
+ - {'vzlvim': 10, 'ntjmdri': 10}
+fjklelc -> 83 ( 195 )
+ - {'pjkrhl': 56, 'yshith': 56}
+fjrwy -> 5 ( 5 )
+fkfyeej -> 299 ( 299 )
+fkilb -> 91 ( 91 )
+flwhrzk -> 31 ( 31 )
+flyxei -> 81 ( 81 )
+fmcjr -> 14 ( 14 )
+fmfkcp -> 71 ( 71 )
+fmntbo -> 204 ( 204 )
+fnoaz -> 96 ( 96 )
+fnvptes -> 297 ( 317 )
+ - {'blwxqfp': 10, 'cjnwipw': 10}
+fpekhb -> 344 ( 1008 )
+ - {'swxncwt': 166, 'vljijeh': 166, 'lqjnx': 166, 'xhqxyc': 166}
+fpkhun -> 185 ( 295 )
+ - {'fwfad': 55, 'jtqgtf': 55}
+fqbovid -> 93 ( 93 )
+fqdccsa -> 91 ( 91 )
+fqskwj -> 51 ( 51 )
+fqyogt -> 45 ( 45 )
+fserz -> 90 ( 90 )
+ftrzswp -> 84 ( 84 )
+ftuues -> 124 ( 314 )
+ - {'gyhfl': 95, 'puoogd': 95}
+ftzhz -> 18 ( 18 )
+fufjkl -> 57 ( 57 )
+fufzi -> 191 ( 229 )
+ - {'evhgkft': 19, 'kzroqbi': 19}
+fuvpi -> 83 ( 83 )
+fuyldc -> 70 ( 70 )
+fvagct -> 176 ( 176 )
+fvyiwup -> 165 ( 253 )
+ - {'ovuqg': 22, 'hdtxgb': 22, 'klccwcn': 22, 'fixsej': 22}
+fwfad -> 55 ( 55 )
+fwjdwhg -> 62 ( 62 )
+fwubo -> 53 ( 53 )
+fxnbfjk -> 8 ( 8 )
+fxptqn -> 242 ( 334 )
+ - {'mxgqn': 46, 'srqrs': 46}
+fybpzfy -> 210 ( 354 )
+ - {'pqmsc': 72, 'wufcpvr': 72}
+fyubj -> 69 ( 69 )
+fzbbm -> 137 ( 227 )
+ - {'nrsrwb': 45, 'gheqw': 45}
+fzqdsv -> 38 ( 188 )
+ - {'yptyp': 75, 'wohpoh': 75}
+fzqita -> 7 ( 7 )
+fzvllyz -> 26 ( 26 )
+fzyftv -> 93 ( 93 )
+gabbp -> 70 ( 70 )
+gaspe -> 54 ( 54 )
+gavdkw -> 38 ( 290 )
+ - {'zvsiqwe': 63, 'ztpysan': 63, 'xdehk': 63, 'zoifh': 63}
+gaxkntb -> 58 ( 58 )
+gcpipz -> 49 ( 49 )
+gdmuqn -> 52 ( 52 )
+gdneruv -> 2040 ( 2673 )
+ - {'butfc': 211, 'srgfuk': 211, 'btyotwv': 211}
+geavik -> 8 ( 8 )
+gfepc -> 50 ( 50 )
+gfhuv -> 40 ( 40 )
+gfluo -> 55 ( 55 )
+gghqilu -> 186 ( 286 )
+ - {'gjmbm': 25, 'paioxf': 25, 'kwtghnf': 25, 'sxxnze': 25}
+ggzzt -> 41 ( 223 )
+ - {'iartkgt': 91, 'fkilb': 91}
+gheqw -> 45 ( 45 )
+ghzvdod -> 7 ( 7 )
+gjjgkga -> 69 ( 69 )
+gjmbm -> 25 ( 25 )
+gjmkox -> 57 ( 57 )
+gkyph -> 58 ( 58 )
+gldorrf -> 198 ( 334 )
+ - {'ulkpoko': 68, 'byymvpo': 68}
+glfoc -> 15 ( 15 )
+gnrij -> 65 ( 65 )
+goiwg -> 162 ( 330 )
+ - {'mpmmos': 56, 'ovtoke': 56, 'lxngrgu': 56}
+gounu -> 145 ( 289 )
+ - {'azvltq': 72, 'jrquxee': 72}
+gperhh -> 1195 ( 2074 )
+ - {'pjtsef': 293, 'blbzqf': 293, 'sspng': 293}
+gpqcq -> 31 ( 31 )
+gpvlztd -> 106 ( 266 )
+ - {'aqdjk': 80, 'tqzmvz': 80}
+gpzqcqk -> 27 ( 27 )
+gqaefmb -> 234 ( 410 )
+ - {'wdqjl': 88, 'kbkqm': 88}
+gqcmcc -> 59 ( 59 )
+gqlnaho -> 84 ( 268 )
+ - {'xjszzfe': 92, 'tlfaxub': 92}
+gqwfut -> 50 ( 50 )
+grbpi -> 80 ( 80 )
+grqtsex -> 80 ( 80 )
+grwcz -> 66 ( 66 )
+gtkkx -> 91 ( 91 )
+gtmcr -> 578 ( 1877 )
+ - {'owsvc': 433, 'svsgzi': 433, 'pnmkl': 433}
+gtnqtd -> 59 ( 59 )
+guyju -> 86 ( 86 )
+gvgnev -> 289 ( 289 )
+gwlrdbk -> 97 ( 97 )
+gwvhjfe -> 13 ( 13 )
+gxcwynf -> 80 ( 216 )
+ - {'jelcp': 68, 'kyfcsou': 68}
+gxprou -> 58 ( 256 )
+ - {'wyucu': 66, 'kbyijkc': 66, 'grwcz': 66}
+gyhfl -> 95 ( 95 )
+gyveijp -> 34 ( 34 )
+gzakvk -> 89 ( 89 )
+gzilup -> 14 ( 14 )
+gzmejde -> 318 ( 344 )
+ - {'oxcou': 13, 'eghfd': 13}
+gzrfjk -> 781 ( 1474 )
+ - {'sieovol': 231, 'qqkctf': 231, 'lmavxq': 231}
+hafgurf -> 95 ( 95 )
+hatfl -> 6172 ( 9948 )
+ - {'nofdxpt': 944, 'sqygj': 944, 'kmujst': 944, 'mkomwy': 944}
+hazyoke -> 40 ( 40 )
+hblnwza -> 7 ( 177 )
+ - {'zwiidh': 85, 'rhtamt': 85}
+hbmzilw -> 1829 ( 2033 )
+ - {'jywye': 68, 'wnaykx': 68, 'ncrotbi': 68}
+hbncy -> 38 ( 38 )
+hbymky -> 774 ( 1622 )
+ - {'qqqvdsu': 212, 'mztwrvf': 212, 'wrquv': 212, 'oppmeig': 212}
+hbzkf -> 51 ( 51 )
+hcorylb -> 97 ( 97 )
+hcpim -> 65 ( 65 )
+hdkvbzv -> 50 ( 94 )
+ - {'aqubpi': 11, 'xezse': 11, 'vcrsnrf': 11, 'twogxyg': 11}
+hdlfpj -> 46 ( 226 )
+ - {'konmy': 60, 'mdwqmyg': 60, 'bddii': 60}
+hdsth -> 32 ( 204 )
+ - {'guyju': 86, 'qrdei': 86}
+hdtxgb -> 22 ( 22 )
+hekihe -> 18 ( 18 )
+hewzwp -> 34 ( 34 )
+hfzyzt -> 124 ( 212 )
+ - {'mhvhtg': 44, 'djkaku': 44}
+hgegrz -> 53 ( 53 )
+hgizeb -> 5324 ( 48284 )
+ - {'tfzsqj': 14320, 'njibgv': 14320, 'izjppbx': 14320}
+hgynpc -> 267 ( 372 )
+ - {'prxlb': 35, 'iwkqae': 35, 'bvfee': 35}
+hgznhq -> 302 ( 344 )
+ - {'kexdopt': 21, 'tkqdly': 21}
+hgzsxur -> 10 ( 286 )
+ - {'tjjkgb': 69, 'umjdo': 69, 'qmgot': 69, 'iwczlkt': 69}
+hhldn -> 61 ( 283 )
+ - {'lmntml': 74, 'pvdsg': 74, 'cujtqk': 74}
+hhpysjd -> 34 ( 34 )
+hhrdosf -> 13 ( 13 )
+hhrvet -> 301 ( 375 )
+ - {'mskxqki': 37, 'jwtzgjf': 37}
+hidmpw -> 26 ( 26 )
+hirayas -> 57 ( 57 )
+hjsfv -> 8 ( 8 )
+hkfgksw -> 22 ( 22 )
+hkmaxza -> 221 ( 221 )
+hlxlrjq -> 48 ( 204 )
+ - {'stkvqy': 78, 'dzrsha': 78}
+hlyodf -> 27 ( 27 )
+hmgrlpj -> 66 ( 14564 )
+ - {'pnqrgfk': 2070, 'nigdlq': 2070, 'tbfce': 2070, 'omytneg': 2070, 'ahrfh': 2070, 'drjmjug': 2078, 'luasrvp': 2070}
+hmlvv -> 75 ( 750 )
+ - {'bsoesu': 225, 'kbpxjg': 225, 'qucnu': 225}
+hmvin -> 176 ( 176 )
+hmytpw -> 178 ( 352 )
+ - {'ywacbmq': 87, 'ubqbhos': 87}
+hnswwt -> 32 ( 372 )
+ - {'mbcpufw': 85, 'xhnwej': 85, 'jqjmgyv': 85, 'ovuesou': 85}
+hobnerj -> 89 ( 89 )
+hojpgpo -> 58 ( 430 )
+ - {'shyxe': 93, 'ymqqpug': 93, 'xkzzcqt': 93, 'eqmkgj': 93}
+holuib -> 302 ( 352 )
+ - {'oustcqz': 25, 'usfzaf': 25}
+hpaeg -> 54 ( 1044 )
+ - {'lvqkp': 330, 'solooh': 330, 'xjbmdc': 330}
+hphzmhs -> 17 ( 17 )
+hragl -> 244 ( 430 )
+ - {'fwjdwhg': 62, 'kfpxhb': 62, 'mcxti': 62}
+hsnsncv -> 22 ( 22 )
+hsvveid -> 10 ( 10 )
+htojdr -> 72 ( 268 )
+ - {'pxncq': 98, 'rzaocr': 98}
+htpboal -> 69 ( 69 )
+htqjli -> 38 ( 38 )
+httgiox -> 77 ( 77 )
+huhxf -> 299 ( 467 )
+ - {'npmkxsb': 84, 'uspjc': 84}
+hvgum -> 2381 ( 2673 )
+ - {'rdbbda': 73, 'kuhybd': 73, 'dfqvxnn': 73, 'rlyui': 73}
+hxeia -> 271 ( 323 )
+ - {'hidmpw': 26, 'fzvllyz': 26}
+hxkatz -> 50 ( 50 )
+hxlsxdj -> 19 ( 19 )
+hxqik -> 45 ( 45 )
+hxscfiv -> 93 ( 93 )
+hyolftw -> 39 ( 1008 )
+ - {'kqjfnb': 323, 'vkgqysh': 323, 'hxeia': 323}
+hyxxm -> 743 ( 2033 )
+ - {'hragl': 430, 'hojpgpo': 430, 'mqsth': 430}
+hyywt -> 18 ( 18 )
+iaini -> 32 ( 32 )
+ialmhy -> 206 ( 257 )
+ - {'iiktsrr': 17, 'tkdsfz': 17, 'acgef': 17}
+iarbj -> 93 ( 93 )
+iartkgt -> 91 ( 91 )
+iauzkqz -> 81 ( 151 )
+ - {'axjcbuj': 35, 'meqlt': 35}
+iavld -> 19 ( 19 )
+iazmq -> 17 ( 17 )
+ibjoxjo -> 175 ( 255 )
+ - {'icjmhii': 20, 'wrnmwy': 20, 'ubhsnqw': 20, 'lmvfuql': 20}
+ibuilzl -> 75 ( 75 )
+icflka -> 157 ( 289 )
+ - {'pwzvu': 66, 'wqtku': 66}
+icgwqn -> 84 ( 84 )
+icjmhii -> 20 ( 20 )
+icmmx -> 22 ( 22 )
+icqkc -> 13 ( 13 )
+icxhhje -> 80 ( 80 )
+idnvd -> 43 ( 43 )
+idqaxgi -> 78 ( 78 )
+ieabomm -> 15 ( 15 )
+ieeecih -> 98 ( 98 )
+iegjd -> 275 ( 291 )
+ - {'zgcfeda': 8, 'geavik': 8}
+ieiha -> 97 ( 97 )
+ienee -> 34 ( 34 )
+ieqgany -> 17 ( 17 )
+ifluvxj -> 66 ( 66 )
+ifvkdba -> 52 ( 352 )
+ - {'ibuilzl': 75, 'yalugkr': 75, 'vxbio': 75, 'pgkiqa': 75}
+igbhn -> 40 ( 40 )
+igblzk -> 97 ( 97 )
+igbqenq -> 212 ( 352 )
+ - {'fuyldc': 70, 'dxlttzs': 70}
+ighndd -> 80 ( 80 )
+igoifwl -> 176 ( 298 )
+ - {'dijeym': 61, 'okcck': 61}
+igqzqiy -> 167 ( 253 )
+ - {'yuzwdix': 43, 'ruuerqk': 43}
+igrahel -> 146 ( 1376 )
+ - {'uzbqa': 410, 'ihqfqm': 410, 'ckakkja': 410}
+igxzggb -> 42 ( 42 )
+ihimta -> 44 ( 156 )
+ - {'wjyekj': 56, 'yeimwk': 56}
+ihqfqm -> 365 ( 410 )
+ - {'zixgz': 15, 'ieabomm': 15, 'glfoc': 15}
+iiktsrr -> 17 ( 17 )
+iiygchg -> 151 ( 267 )
+ - {'cwkdjn': 29, 'ydnsnh': 29, 'pppsd': 29, 'cwehc': 29}
+ijajh -> 55 ( 55 )
+ijlmcnx -> 78 ( 78 )
+iksafw -> 41 ( 41 )
+ilbcji -> 205 ( 255 )
+ - {'ctxwkkt': 25, 'utizol': 25}
+insvmt -> 18 ( 18 )
+insxh -> 186 ( 186 )
+ioexd -> 52 ( 80 )
+ - {'shfyok': 14, 'xcwlym': 14}
+iomxv -> 226 ( 226 )
+iondfqm -> 45 ( 45 )
+iplfnd -> 37 ( 37 )
+iqegs -> 345 ( 401 )
+ - {'swtks': 14, 'yrmqu': 14, 'fmcjr': 14, 'twzglew': 14}
+iquxck -> 6442 ( 16072 )
+ - {'zkkok': 1926, 'nafjtip': 1926, 'tpjuj': 1926, 'zubbg': 1926, 'upeezd': 1926}
+irgkfsa -> 83 ( 155 )
+ - {'kzvbkr': 24, 'lbgwc': 24, 'syhjziw': 24}
+irkfc -> 14 ( 204 )
+ - {'rypyfha': 95, 'cgagfib': 95}
+itcgsx -> 83 ( 83 )
+itluk -> 97 ( 97 )
+itooipv -> 68 ( 68 )
+itzdby -> 331 ( 467 )
+ - {'nvpgfzh': 68, 'itooipv': 68}
+iufypzm -> 58 ( 58 )
+ivbrype -> 72 ( 72 )
+ivrnod -> 42 ( 42 )
+ivxnetm -> 267 ( 381 )
+ - {'ctdghk': 57, 'zdelwv': 57}
+iwczlkt -> 69 ( 69 )
+iwkqae -> 35 ( 35 )
+iwsppaw -> 150 ( 220 )
+ - {'qagul': 35, 'axfvokp': 35}
+ixukpw -> 77 ( 77 )
+iyosp -> 88 ( 186 )
+ - {'gcpipz': 49, 'scsxe': 49}
+izchcj -> 83 ( 83 )
+izjeb -> 105 ( 317 )
+ - {'hgegrz': 53, 'lduim': 53, 'veegvvc': 53, 'pvzeznc': 53}
+izjppbx -> 1108 ( 14320 )
+ - {'zbwysvr': 2202, 'cgnewz': 2202, 'nwfykuw': 2202, 'ugujla': 2202, 'qzvrq': 2202, 'xkghfhn': 2202}
+izkhkai -> 45 ( 45 )
+izuxb -> 33 ( 33 )
+jacplh -> 133 ( 157 )
+ - {'aenrksb': 12, 'ahrynjm': 12}
+jajbpsk -> 39 ( 39 )
+jarvx -> 188 ( 354 )
+ - {'nrywfm': 83, 'jjlsy': 83}
+jbaxm -> 293 ( 2033 )
+ - {'xrhjl': 290, 'puawqd': 290, 'gavdkw': 290, 'fczix': 290, 'ptcccmw': 290, 'qiveb': 290}
+jbaztvm -> 53 ( 2146 )
+ - {'jqvjr': 299, 'vsyolk': 299, 'basiy': 299, 'eyfvei': 299, 'paqngfj': 299, 'pkivl': 299, 'fkfyeej': 299}
+jbdtgk -> 29 ( 29 )
+jbsxc -> 68 ( 68 )
+jbwoozn -> 111 ( 223 )
+ - {'otxroc': 56, 'bfioj': 56}
+jcqgj -> 46 ( 334 )
+ - {'nxqswd': 96, 'lznju': 96, 'kohici': 96}
+jdvxawc -> 26 ( 330 )
+ - {'jyoevqm': 76, 'ukkmfh': 76, 'kfyaw': 76, 'kglxbse': 76}
+jelcp -> 68 ( 68 )
+jerwsi -> 80 ( 80 )
+jfuzgpw -> 34 ( 34 )
+jggzx -> 20 ( 20 )
+jgmyc -> 1366 ( 2074 )
+ - {'hblnwza': 177, 'muzkuai': 177, 'oaefi': 177, 'mzdxg': 177}
+jgsydq -> 98 ( 98 )
+jiwpf -> 48 ( 48 )
+jjanr -> 57 ( 57 )
+jjlsy -> 83 ( 83 )
+jjsbd -> 15 ( 15 )
+jjxcsxg -> 18 ( 291 )
+ - {'lqsgphu': 91, 'eatoyd': 91, 'fqdccsa': 91}
+jkfce -> 7 ( 7 )
+jldgbkx -> 87 ( 87 )
+jljwoo -> 171 ( 295 )
+ - {'dgyjldr': 62, 'uqajm': 62}
+jludr -> 7 ( 7 )
+jngbnk -> 59 ( 59 )
+jonbur -> 33 ( 33 )
+jorbfl -> 181 ( 227 )
+ - {'bqjypo': 23, 'uvhyl': 23}
+jotnlgm -> 79 ( 253 )
+ - {'iufypzm': 58, 'povsm': 58, 'nrvqpd': 58}
+joxzy -> 253 ( 285 )
+ - {'fxnbfjk': 8, 'hjsfv': 8, 'ubllrlw': 8, 'czvdrpq': 8}
+jpeehl -> 157 ( 235 )
+ - {'paqbnl': 39, 'jqwhun': 39}
+jpjezb -> 26 ( 26 )
+jpwtw -> 81 ( 81 )
+jqeabja -> 81 ( 195 )
+ - {'luulwx': 57, 'jjanr': 57}
+jqgjdku -> 68 ( 68 )
+jqjmgyv -> 85 ( 85 )
+jqvjr -> 47 ( 299 )
+ - {'lnttud': 63, 'aspoy': 63, 'adzvlgk': 63, 'fdvgk': 63}
+jqwhun -> 39 ( 39 )
+jrigbij -> 80 ( 80 )
+jrquxee -> 72 ( 72 )
+jtqgtf -> 55 ( 55 )
+juaquyw -> 164 ( 242 )
+ - {'jajbpsk': 39, 'uembuig': 39}
+juavhi -> 20 ( 176 )
+ - {'gdmuqn': 52, 'bbueq': 52, 'krhkthl': 52}
+juqrwwm -> 98 ( 1376 )
+ - {'enkufi': 426, 'bhtoyru': 426, 'ulacz': 426}
+juvhkoc -> 1546 ( 2272 )
+ - {'juaquyw': 242, 'vsvyj': 242, 'yxccn': 242}
+juvwqt -> 63 ( 63 )
+jvhjtv -> 91 ( 91 )
+jvjezrv -> 31 ( 31 )
+jvneo -> 51 ( 51 )
+jvsmwee -> 88 ( 88 )
+jwtzgjf -> 37 ( 37 )
+jwutq -> 32 ( 32 )
+jwvcm -> 92 ( 92 )
+jygrpp -> 17 ( 17 )
+jyoevqm -> 76 ( 76 )
+jywye -> 68 ( 68 )
+kbehv -> 62 ( 1833 )
+ - {'uhukwcq': 253, 'igqzqiy': 253, 'zhallzk': 253, 'wgkxy': 253, 'dbbsyeo': 253, 'fvyiwup': 253, 'jotnlgm': 253}
+kbjazf -> 12 ( 176 )
+ - {'iksafw': 41, 'tfjadw': 41, 'ljqmwwg': 41, 'tpezujs': 41}
+kbkqm -> 88 ( 88 )
+kbmrrew -> 38 ( 38 )
+kbpklq -> 173 ( 295 )
+ - {'lxouzag': 61, 'oajdkzc': 61}
+kbpnl -> 10 ( 10 )
+kbpxjg -> 225 ( 225 )
+kbyijkc -> 66 ( 66 )
+kdsscve -> 310 ( 354 )
+ - {'sqcwjaa': 22, 'djsexcr': 22}
+kdwzsz -> 41 ( 41 )
+kenpyrt -> 282 ( 1622 )
+ - {'htojdr': 268, 'drvxvk': 268, 'zgvpy': 268, 'tntib': 268, 'gqlnaho': 268}
+kexdopt -> 21 ( 21 )
+kfpxhb -> 62 ( 62 )
+kfvur -> 40 ( 40 )
+kfxcot -> 182 ( 317 )
+ - {'lkstwl': 45, 'vqumdju': 45, 'hxqik': 45}
+kfyaw -> 76 ( 76 )
+kgdtem -> 75 ( 75 )
+kglxbse -> 76 ( 76 )
+khbpnx -> 117 ( 291 )
+ - {'kpegrqm': 87, 'mudup': 87}
+khjqt -> 87 ( 87 )
+kidbaiy -> 38 ( 38 )
+kirvox -> 159 ( 319 )
+ - {'jerwsi': 80, 'nmteeca': 80}
+kixlvf -> 1906 ( 2146 )
+ - {'mamllly': 80, 'eledia': 80, 'ioexd': 80}
+klccwcn -> 22 ( 22 )
+kmjqzw -> 63 ( 285 )
+ - {'tqqldx': 74, 'ancmoj': 74, 'avjfqex': 74}
+kmujst -> 284 ( 944 )
+ - {'axjqq': 220, 'mljlpfo': 220, 'iwsppaw': 220}
+kmvcjir -> 89 ( 89 )
+kndobxz -> 75 ( 75 )
+kohici -> 96 ( 96 )
+konmy -> 60 ( 60 )
+koyzdbq -> 20 ( 20 )
+kozlia -> 37 ( 37 )
+kpegrqm -> 87 ( 87 )
+kpmyxk -> 247 ( 286 )
+ - {'mjpcrh': 13, 'icqkc': 13, 'uvcsl': 13}
+kpxrk -> 45 ( 45 )
+kqdus -> 52 ( 188 )
+ - {'bwhjal': 68, 'vbusaxq': 68}
+kqjfnb -> 91 ( 323 )
+ - {'tlnffr': 58, 'mytnwmk': 58, 'avroyn': 58, 'zamoi': 58}
+kqtye -> 46 ( 46 )
+krhkthl -> 52 ( 52 )
+kridw -> 175 ( 335 )
+ - {'edmfm': 80, 'jrigbij': 80}
+ksuhtas -> 14 ( 190 )
+ - {'wahfxls': 88, 'qvykht': 88}
+ktfbjoo -> 90 ( 286 )
+ - {'jgsydq': 98, 'yjbjy': 98}
+ktooxbh -> 74 ( 74 )
+ktyyedq -> 61 ( 61 )
+kuhybd -> 73 ( 73 )
+kuusoe -> 396 ( 1044 )
+ - {'mxvhj': 216, 'wijfihq': 216, 'gxcwynf': 216}
+kvyrc -> 133 ( 283 )
+ - {'acrly': 75, 'sdnwo': 75}
+kwtghnf -> 25 ( 25 )
+kxgxji -> 372 ( 372 )
+kxjnq -> 92 ( 92 )
+kyfcsou -> 68 ( 68 )
+kymwev -> 215 ( 295 )
+ - {'hazyoke': 40, 'nkywqaj': 40}
+kyokkl -> 89 ( 89 )
+kyrookv -> 181 ( 375 )
+ - {'mdxcp': 97, 'zdcdmle': 97}
+kzroqbi -> 19 ( 19 )
+kzvbkr -> 24 ( 24 )
+lalblzp -> 65 ( 65 )
+lbajhe -> 180 ( 244 )
+ - {'fausgp': 32, 'zkeep': 32}
+lbgwc -> 24 ( 24 )
+lcfsu -> 18 ( 1622 )
+ - {'iqegs': 401, 'sxrzzuy': 401, 'yieehh': 401, 'cqdyyoo': 401}
+lclxb -> 80 ( 80 )
+lcmek -> 741 ( 1549 )
+ - {'bfkdbeh': 202, 'yviutlw': 202, 'tksiwle': 202, 'tjnuf': 202}
+lcourm -> 43 ( 43 )
+lcsqza -> 68 ( 68 )
+lduim -> 53 ( 53 )
+ldypun -> 11 ( 11 )
+letwfzz -> 22 ( 22 )
+lfmzadj -> 93 ( 93 )
+lfoiu -> 13 ( 13 )
+lfpwycg -> 209 ( 377 )
+ - {'qiniyf': 84, 'vdtdpz': 84}
+lfvih -> 99 ( 375 )
+ - {'eoxubh': 92, 'xazpni': 92, 'rnzpmw': 92}
+lfzthdo -> 85 ( 85 )
+lhauud -> 220 ( 314 )
+ - {'eqtmes': 47, 'zlaxh': 47}
+lhcinxf -> 58 ( 58 )
+lhypfq -> 51 ( 51 )
+liida -> 77 ( 77 )
+lijmpm -> 55 ( 55 )
+ljqmwwg -> 41 ( 41 )
+lkhvhui -> 224 ( 344 )
+ - {'uufmp': 60, 'qumacc': 60}
+lkokq -> 77 ( 77 )
+lkstwl -> 45 ( 45 )
+lkuelr -> 62 ( 62 )
+llale -> 7 ( 7 )
+lmavxq -> 75 ( 231 )
+ - {'idqaxgi': 78, 'bonoob': 78}
+lmntml -> 74 ( 74 )
+lmvfuql -> 20 ( 20 )
+lmxvhwl -> 175 ( 261 )
+ - {'azbjh': 43, 'wuvctps': 43}
+lncdocs -> 70 ( 70 )
+lnoihzx -> 43 ( 244 )
+ - {'zdseqzi': 67, 'qkhudy': 67, 'ydehaq': 67}
+lnreval -> 98 ( 98 )
+lnttud -> 63 ( 63 )
+lpjbjju -> 38 ( 38 )
+lpvqp -> 17 ( 17 )
+lqjnx -> 166 ( 166 )
+lqsgphu -> 91 ( 91 )
+lrxyqgr -> 106 ( 223 )
+ - {'tbure': 39, 'sspayll': 39, 'phppbj': 39}
+lrxzg -> 66 ( 66 )
+ltseugc -> 37 ( 37 )
+luasrvp -> 1476 ( 2070 )
+ - {'xzcfko': 198, 'ofxag': 198, 'mnvlfcf': 198}
+luerna -> 10160 ( 13184 )
+ - {'rnvvg': 1008, 'hyolftw': 1008, 'fpekhb': 1008}
+luufi -> 53 ( 53 )
+luulwx -> 57 ( 57 )
+lvihecc -> 33 ( 33 )
+lviohn -> 71 ( 71 )
+lvlfju -> 73 ( 73 )
+lvpdwy -> 19 ( 19 )
+lvqkp -> 66 ( 330 )
+ - {'quhkp': 88, 'cufau': 88, 'jvsmwee': 88}
+lvsqvdi -> 13 ( 13 )
+lvuah -> 66 ( 66 )
+lxjbzu -> 12 ( 9948 )
+ - {'lygtf': 2484, 'nxkpbs': 2484, 'ebeitz': 2484, 'nsqfu': 2484}
+lxngrgu -> 56 ( 56 )
+lxouzag -> 61 ( 61 )
+lxuiwb -> 201 ( 285 )
+ - {'ubnap': 21, 'qbdisnk': 21, 'urqoabs': 21, 'oepwc': 21}
+lygtf -> 24 ( 2484 )
+ - {'rptgp': 410, 'nbxceyt': 410, 'cdovdt': 410, 'gqaefmb': 410, 'xgowghi': 410, 'tboimc': 410}
+lywsab -> 77 ( 77 )
+lznju -> 96 ( 96 )
+lztme -> 46 ( 46 )
+mamllly -> 66 ( 80 )
+ - {'qxyemg': 7, 'umkwllw': 7}
+manpd -> 82 ( 82 )
+maqzwn -> 37 ( 37 )
+maubg -> 85 ( 235 )
+ - {'mpgge': 50, 'cnxyhg': 50, 'uyfzha': 50}
+mbcpufw -> 85 ( 85 )
+mcxti -> 62 ( 62 )
+mdfjh -> 58 ( 58 )
+mdkfx -> 54 ( 54 )
+mdwiktj -> 15 ( 15 )
+mdwqmyg -> 60 ( 60 )
+mdxcp -> 97 ( 97 )
+meqlt -> 35 ( 35 )
+mevdoy -> 289 ( 289 )
+meybf -> 54 ( 54 )
+mgqziu -> 20 ( 20 )
+mgwbaj -> 21 ( 21 )
+mhdauqb -> 89 ( 89 )
+mhvhtg -> 44 ( 44 )
+mjmskc -> 399 ( 413 )
+ - {'slolo': 7, 'jludr': 7}
+mjpcrh -> 13 ( 13 )
+mjseecw -> 68 ( 68 )
+mkomwy -> 86 ( 944 )
+ - {'hgzsxur': 286, 'zrvff': 286, 'ktfbjoo': 286}
+mkqtej -> 81 ( 81 )
+mkuernu -> 60 ( 60 )
+mljlpfo -> 90 ( 220 )
+ - {'lalblzp': 65, 'gnrij': 65}
+mnvfi -> 47 ( 47 )
+mnvlfcf -> 132 ( 198 )
+ - {'icmmx': 22, 'hsnsncv': 22, 'bsmryo': 22}
+mpgge -> 50 ( 50 )
+mpmmos -> 56 ( 56 )
+mqafr -> 88 ( 88 )
+mqrvu -> 44 ( 44 )
+mqsth -> 258 ( 430 )
+ - {'amhthnw': 43, 'rfmgglc': 43, 'idnvd': 43, 'bcwbp': 43}
+mrshnke -> 18 ( 18 )
+mryuhsl -> 29 ( 29 )
+msekejl -> 77 ( 121 )
+ - {'hkfgksw': 22, 'utvdgr': 22}
+mskxqki -> 37 ( 37 )
+mudup -> 87 ( 87 )
+muesucc -> 50 ( 50 )
+muzkuai -> 77 ( 177 )
+ - {'gqwfut': 50, 'dhmhbw': 50}
+mwbpro -> 51 ( 51 )
+mwkct -> 11 ( 11 )
+mwknwxh -> 44 ( 44 )
+mxgqn -> 46 ( 46 )
+mxoxo -> 117 ( 285 )
+ - {'icgwqn': 84, 'vjstu': 84}
+mxvhj -> 216 ( 216 )
+myerj -> 204 ( 204 )
+mytnwmk -> 58 ( 58 )
+mzdxg -> 51 ( 177 )
+ - {'bxdbijl': 63, 'yqdsxvc': 63}
+mzlub -> 83 ( 83 )
+mzrze -> 89 ( 89 )
+mztwrvf -> 34 ( 212 )
+ - {'cgwnor': 89, 'kmvcjir': 89}
+nadwsc -> 113 ( 221 )
+ - {'zvqyr': 36, 'crlkolg': 36, 'ohvhpc': 36}
+nafjtip -> 1182 ( 1926 )
+ - {'insxh': 186, 'cxflah': 186, 'zyqkcmb': 186, 'iyosp': 186}
+naseaj -> 61 ( 61 )
+nbpkmt -> 60 ( 190 )
+ - {'qjcsn': 65, 'thzvetu': 65}
+nbxceyt -> 320 ( 410 )
+ - {'pydtt': 45, 'taizyha': 45}
+ncrotbi -> 68 ( 68 )
+neafgd -> 76 ( 76 )
+nebitb -> 19 ( 19 )
+neclo -> 61 ( 61 )
+nfdvsc -> 4824 ( 14556 )
+ - {'pustj': 1622, 'lcfsu': 1622, 'hbymky': 1622, 'tpvvbr': 1622, 'ytqrut': 1622, 'kenpyrt': 1622}
+nfvliuy -> 97 ( 97 )
+ngonq -> 243 ( 381 )
+ - {'oydwkrv': 69, 'rnibhd': 69}
+nhbff -> 51 ( 51 )
+nhmrdn -> 99 ( 99 )
+nhtxs -> 252 ( 286 )
+ - {'uwopuvj': 17, 'dvhcixe': 17}
+nhxyn -> 25 ( 25 )
+nigdlq -> 846 ( 2070 )
+ - {'hdsth': 204, 'irkfc': 204, 'hlxlrjq': 204, 'fmntbo': 204, 'txyqy': 204, 'myerj': 204}
+nikvfs -> 34 ( 34 )
+njibgv -> 688 ( 14320 )
+ - {'juvhkoc': 2272, 'wlfngqq': 2272, 'qfuoayy': 2272, 'ahmknyy': 2272, 'vruiy': 2272, 'ehefb': 2272}
+njkxh -> 71 ( 71 )
+njvsnz -> 128 ( 266 )
+ - {'lztme': 46, 'yypfse': 46, 'txkog': 46}
+nkfpci -> 87 ( 87 )
+nkywqaj -> 40 ( 40 )
+nldvtr -> 84 ( 84 )
+nmpxqi -> 205 ( 255 )
+ - {'uaguc': 25, 'prspd': 25}
+nmteeca -> 80 ( 80 )
+nmvqwi -> 18 ( 18 )
+nmyem -> 90 ( 90 )
+nniqh -> 59 ( 59 )
+nnnfykw -> 75 ( 75 )
+nnzhve -> 81 ( 81 )
+nofdxpt -> 491 ( 944 )
+ - {'ygsjv': 151, 'cayxz': 151, 'iauzkqz': 151}
+nplbgrk -> 59 ( 59 )
+npmkxsb -> 84 ( 84 )
+npzlka -> 99 ( 319 )
+ - {'ijajh': 55, 'gfluo': 55, 'lijmpm': 55, 'dwnys': 55}
+nrevor -> 596 ( 1376 )
+ - {'fjklelc': 195, 'dkgsxvj': 195, 'jqeabja': 195, 'xeeuxiz': 195}
+nrgwyzb -> 263 ( 319 )
+ - {'aijmghs': 28, 'eunfszw': 28}
+nrsrwb -> 45 ( 45 )
+nrvqpd -> 58 ( 58 )
+nrywfm -> 83 ( 83 )
+nsdver -> 97 ( 97 )
+nsecr -> 24 ( 24 )
+nsqfu -> 1724 ( 2484 )
+ - {'ksuhtas': 190, 'arbrp': 190, 'tgvzdov': 190, 'nbpkmt': 190}
+ntjmdri -> 10 ( 10 )
+ntqdxv -> 16 ( 16 )
+nvkqru -> 139 ( 227 )
+ - {'sdqzod': 44, 'raucx': 44}
+nvlpgon -> 88 ( 88 )
+nvpgfzh -> 68 ( 68 )
+nwfykuw -> 2136 ( 2202 )
+ - {'jonbur': 33, 'izuxb': 33}
+nwhma -> 40 ( 40 )
+nwhunwf -> 88 ( 352 )
+ - {'ifluvxj': 66, 'ygidtwv': 66, 'soixton': 66, 'lrxzg': 66}
+nxkpbs -> 1707 ( 2484 )
+ - {'bhfeafe': 259, 'yfwki': 259, 'cnvir': 259}
+nxkpw -> 34 ( 34 )
+nxnjrzj -> 16 ( 16 )
+nxqswd -> 96 ( 96 )
+nyjgkav -> 191 ( 375 )
+ - {'jwvcm': 92, 'kxjnq': 92}
+nzakpnw -> 50 ( 257 )
+ - {'gjjgkga': 69, 'pzbgf': 69, 'bvgct': 69}
+oaefi -> 9 ( 177 )
+ - {'yigwd': 84, 'nldvtr': 84}
+oajdkzc -> 61 ( 61 )
+oarmggv -> 14 ( 14 )
+oavnz -> 22 ( 22 )
+oblhfhz -> 66 ( 66 )
+obqblrl -> 83 ( 83 )
+odhwzy -> 38 ( 38 )
+odirpnl -> 20 ( 20 )
+oepwc -> 21 ( 21 )
+ofxag -> 36 ( 198 )
+ - {'jpwtw': 81, 'flyxei': 81}
+ogjeuhl -> 2016 ( 2146 )
+ - {'euezshv': 65, 'argdqd': 65}
+ohapkri -> 19 ( 19 )
+ohitm -> 1133 ( 1877 )
+ - {'dlodc': 248, 'aaeeqh': 248, 'rxerq': 248}
+ohjax -> 56 ( 56 )
+ohvhpc -> 36 ( 36 )
+ohyrn -> 68 ( 68 )
+oidmfs -> 97 ( 97 )
+oitpd -> 25 ( 25 )
+ojhbiv -> 62 ( 62 )
+ojkhavf -> 1465 ( 1549 )
+ - {'siujrb': 42, 'igxzggb': 42}
+ojnrf -> 35 ( 35 )
+okcck -> 61 ( 61 )
+olylo -> 188 ( 188 )
+ompeys -> 207 ( 257 )
+ - {'dhpviei': 25, 'plbbbno': 25}
+omytneg -> 1366 ( 2070 )
+ - {'zrioi': 176, 'sdlcqtb': 176, 'eppzprf': 176, 'hmvin': 176}
+oninxl -> 46 ( 46 )
+onmod -> 99 ( 223 )
+ - {'jvjezrv': 31, 'xjpuoil': 31, 'umopgq': 31, 'flwhrzk': 31}
+ooiwbe -> 49 ( 49 )
+ootknbf -> 45 ( 45 )
+oppmeig -> 60 ( 212 )
+ - {'yqhss': 76, 'suupi': 76}
+orbwii -> 77 ( 77 )
+oseqshg -> 76 ( 76 )
+otxroc -> 56 ( 56 )
+oujtz -> 69 ( 327 )
+ - {'vjcexcx': 86, 'wuztvge': 86, 'cyrqkl': 86}
+oustcqz -> 25 ( 25 )
+ovhos -> 46 ( 46 )
+ovkpba -> 352 ( 352 )
+ovtoke -> 56 ( 56 )
+ovuesou -> 85 ( 85 )
+ovuqg -> 22 ( 22 )
+ovzcdi -> 42 ( 42 )
+owjjja -> 1495 ( 2626 )
+ - {'xzjbmpu': 377, 'lfpwycg': 377, 'vqntk': 377}
+owkjav -> 56 ( 56 )
+owsoywa -> 99 ( 99 )
+owsvc -> 433 ( 433 )
+oxcou -> 13 ( 13 )
+oxyltk -> 32 ( 32 )
+oydwkrv -> 69 ( 69 )
+oyomma -> 125 ( 176 )
+ - {'cebdo': 17, 'ynzpsk': 17, 'jygrpp': 17}
+ozjzmh -> 81 ( 227 )
+ - {'uraugcn': 73, 'lvlfju': 73}
+ozvtq -> 254 ( 314 )
+ - {'zxqmj': 20, 'xcpuy': 20, 'zjchuge': 20}
+paioxf -> 25 ( 25 )
+paqbnl -> 39 ( 39 )
+paqngfj -> 161 ( 299 )
+ - {'htpboal': 69, 'qyqid': 69}
+pbeez -> 64 ( 184 )
+ - {'xprrajl': 60, 'qbfsj': 60}
+pbxguu -> 28 ( 28 )
+pcwawh -> 46 ( 46 )
+pdowqq -> 17 ( 17 )
+pfgsvs -> 84 ( 84 )
+pgkiqa -> 75 ( 75 )
+pgvds -> 134 ( 298 )
+ - {'manpd': 82, 'vkikri': 82}
+phppbj -> 39 ( 39 )
+pijlcc -> 9 ( 9 )
+pjkrhl -> 56 ( 56 )
+pjtsef -> 59 ( 293 )
+ - {'bqwgm': 78, 'rnkvgzf': 78, 'podkl': 78}
+pkhvge -> 95 ( 95 )
+pkivl -> 217 ( 299 )
+ - {'dejsmq': 41, 'kdwzsz': 41}
+pkpgu -> 95 ( 257 )
+ - {'nnzhve': 81, 'wcvxg': 81}
+plbbbno -> 25 ( 25 )
+plbmu -> 107 ( 267 )
+ - {'rcaajf': 80, 'qdmqsrh': 80}
+plysamb -> 11 ( 155 )
+ - {'vwrhg': 72, 'yuwoa': 72}
+pmafsug -> 1041 ( 2146 )
+ - {'nadwsc': 221, 'pnjgt': 221, 'hkmaxza': 221, 'alhkjxm': 221, 'uryqiso': 221}
+pmebb -> 42 ( 42 )
+pmfuf -> 62 ( 62 )
+pndayy -> 1340 ( 1376 )
+ - {'yedwosl': 18, 'ftzhz': 18}
+pnfwlas -> 232 ( 352 )
+ - {'mkuernu': 60, 'edvqwvm': 60}
+pnjgt -> 55 ( 221 )
+ - {'obqblrl': 83, 'fuvpi': 83}
+pnmkl -> 325 ( 433 )
+ - {'meybf': 54, 'rhyglf': 54}
+pnncrgq -> 51 ( 51 )
+pnqrgfk -> 1707 ( 2070 )
+ - {'tfregkr': 121, 'aaroa': 121, 'msekejl': 121}
+pobecj -> 99 ( 99 )
+podkl -> 78 ( 78 )
+pooon -> 22 ( 2626 )
+ - {'hgynpc': 372, 'bkrctx': 372, 'epblwo': 372, 'hnswwt': 372, 'tybjmqm': 372, 'wxtrq': 372, 'kxgxji': 372}
+povsm -> 58 ( 58 )
+pppsd -> 29 ( 29 )
+ppsnn -> 7698 ( 9948 )
+ - {'ajmtxv': 375, 'wubrts': 375, 'hhrvet': 375, 'lfvih': 375, 'nyjgkav': 375, 'kyrookv': 375}
+ppstt -> 61 ( 61 )
+pqguzw -> 181 ( 319 )
+ - {'kqtye': 46, 'oninxl': 46, 'xpjksm': 46}
+pqknhsq -> 1031 ( 2033 )
+ - {'gldorrf': 334, 'jcqgj': 334, 'fxptqn': 334}
+pqmsc -> 72 ( 72 )
+pqmyl -> 11 ( 11 )
+prspd -> 25 ( 25 )
+prxlb -> 35 ( 35 )
+ptcccmw -> 116 ( 290 )
+ - {'khjqt': 87, 'pzfdzb': 87}
+puawqd -> 256 ( 290 )
+ - {'eihkuqx': 17, 'cwwpev': 17}
+pubgkhb -> 75 ( 75 )
+puoogd -> 95 ( 95 )
+pustj -> 742 ( 1622 )
+ - {'bwyjnu': 176, 'juavhi': 176, 'fvagct': 176, 'oyomma': 176, 'kbjazf': 176}
+puxlsjo -> 26 ( 94 )
+ - {'nikvfs': 34, 'gyveijp': 34}
+pvdsg -> 74 ( 74 )
+pvnfa -> 503 ( 2033 )
+ - {'nmpxqi': 255, 'aqcwqy': 255, 'ilbcji': 255, 'rwjlopt': 255, 'suyzrmf': 255, 'ibjoxjo': 255}
+pvvbn -> 8732 ( 48284 )
+ - {'adyni': 13184, 'luerna': 13184, 'dvltfhm': 13184}
+pvxof -> 82 ( 82 )
+pvzeznc -> 53 ( 53 )
+pvzjsbf -> 143 ( 235 )
+ - {'qklhqlf': 46, 'wvaketk': 46}
+pwajo -> 93 ( 93 )
+pwdziu -> 253 ( 413 )
+ - {'kfvur': 40, 'nwhma': 40, 'ckyoc': 40, 'igbhn': 40}
+pwlpeu -> 98 ( 98 )
+pwmqpk -> 62 ( 62 )
+pwzvu -> 66 ( 66 )
+pxncq -> 98 ( 98 )
+pxupwhx -> 91 ( 91 )
+pydtt -> 45 ( 45 )
+pzbgf -> 69 ( 69 )
+pzfdzb -> 87 ( 87 )
+pzuxx -> 58 ( 58 )
+qagul -> 35 ( 35 )
+qanpeab -> 9 ( 2074 )
+ - {'kbpklq': 295, 'qylxl': 295, 'fpkhun': 295, 'kymwev': 295, 'qjjuk': 295, 'jljwoo': 295, 'rppgdnf': 295}
+qbdisnk -> 21 ( 21 )
+qbfsj -> 60 ( 60 )
+qbqjz -> 77 ( 77 )
+qcdsvv -> 82 ( 82 )
+qchxbon -> 109 ( 209 )
+ - {'vvukaca': 50, 'muesucc': 50}
+qclnd -> 11 ( 11 )
+qcsjl -> 33 ( 33 )
+qdmqsrh -> 80 ( 80 )
+qewavw -> 61 ( 235 )
+ - {'lhcinxf': 58, 'byfbs': 58, 'gkyph': 58}
+qfbagb -> 42 ( 42 )
+qfqkz -> 15 ( 167 )
+ - {'etfnmle': 76, 'xmett': 76}
+qfuoayy -> 74 ( 2272 )
+ - {'ozvtq': 314, 'brnqhc': 314, 'lhauud': 314, 'xzuedm': 314, 'ftuues': 314, 'szcqd': 314, 'alcioc': 314}
+qfybq -> 95 ( 95 )
+qhlslym -> 147 ( 263 )
+ - {'gaxkntb': 58, 'eymlu': 58}
+qifofxk -> 83 ( 83 )
+qiniyf -> 84 ( 84 )
+qiqjmmi -> 10 ( 2074 )
+ - {'hgznhq': 344, 'zknngyu': 344, 'gzmejde': 344, 'tcmexa': 344, 'lkhvhui': 344, 'edaslb': 344}
+qiveb -> 197 ( 290 )
+ - {'gpqcq': 31, 'btpbnr': 31, 'evpav': 31}
+qjcsn -> 65 ( 65 )
+qjhdxdr -> 74 ( 74 )
+qjjuk -> 109 ( 295 )
+ - {'iarbj': 93, 'vlbkhb': 93}
+qkhudy -> 67 ( 67 )
+qklhqlf -> 46 ( 46 )
+qkmqmg -> 40 ( 40 )
+qkqyelb -> 253 ( 327 )
+ - {'ehravmh': 37, 'qzqtysl': 37}
+qkseme -> 44 ( 335 )
+ - {'zkqxpbq': 97, 'axnwb': 97, 'crxji': 97}
+qlesgoz -> 185 ( 381 )
+ - {'pwlpeu': 98, 'rchqa': 98}
+qmgot -> 69 ( 69 )
+qmygary -> 95 ( 95 )
+qnblxrh -> 7 ( 303 )
+ - {'bhwxgp': 74, 'dvpay': 74, 'qjhdxdr': 74, 'ktooxbh': 74}
+qnpzxal -> 75 ( 75 )
+qnuusbq -> 15 ( 15 )
+qorpdxg -> 72 ( 72 )
+qpycn -> 544 ( 2146 )
+ - {'plbmu': 267, 'iiygchg': 267, 'yornm': 267, 'bxqdudx': 267, 'twfzzyt': 267, 'vpvcum': 267}
+qqkctf -> 121 ( 231 )
+ - {'busosd': 55, 'zouklk': 55}
+qqncuk -> 77 ( 77 )
+qqqvdsu -> 160 ( 212 )
+ - {'lvsqvdi': 13, 'cyjcaht': 13, 'bwntinc': 13, 'hhrdosf': 13}
+qrdei -> 86 ( 86 )
+qreeg -> 63 ( 63 )
+qrxso -> 46 ( 5545 )
+ - {'azxoyif': 1833, 'kbehv': 1833, 'zuhkp': 1833}
+qsewkq -> 27 ( 27 )
+qtatze -> 299 ( 335 )
+ - {'mrshnke': 18, 'hekihe': 18}
+qtxfdex -> 191 ( 229 )
+ - {'elcvqr': 19, 'iavld': 19}
+qucnu -> 225 ( 225 )
+quhkp -> 88 ( 88 )
+qumacc -> 60 ( 60 )
+qutgb -> 83 ( 83 )
+quybmbk -> 179 ( 303 )
+ - {'pmfuf': 62, 'ubrevf': 62}
+qvjwgkp -> 160 ( 286 )
+ - {'juvwqt': 63, 'tjwodb': 63}
+qvykht -> 88 ( 88 )
+qwwmx -> 71 ( 71 )
+qxyemg -> 7 ( 7 )
+qylxl -> 277 ( 295 )
+ - {'ttiaks': 9, 'pijlcc': 9}
+qyqid -> 69 ( 69 )
+qzqtysl -> 37 ( 37 )
+qzvrq -> 1178 ( 2202 )
+ - {'gxprou': 256, 'rpiefl': 256, 'tchaqbm': 256, 'xzndm': 256}
+rabdvok -> 57 ( 57 )
+ralmgdq -> 91 ( 261 )
+ - {'lfzthdo': 85, 'bmcsya': 85}
+raucx -> 44 ( 44 )
+rcaajf -> 80 ( 80 )
+rchqa -> 98 ( 98 )
+rdbbda -> 73 ( 73 )
+rdfab -> 43 ( 43 )
+rdomi -> 46 ( 46 )
+reeuuic -> 66 ( 66 )
+renqhyi -> 52 ( 52 )
+rfmgglc -> 43 ( 43 )
+rgzch -> 92 ( 92 )
+rhtamt -> 85 ( 85 )
+rhyglf -> 54 ( 54 )
+risguql -> 97 ( 97 )
+rjhws -> 97 ( 97 )
+rjkumo -> 97 ( 97 )
+rjumsra -> 38 ( 38 )
+rkevnnd -> 81 ( 81 )
+rknadpx -> 63 ( 63 )
+rkznog -> 9 ( 167 )
+ - {'xytulz': 79, 'civhlqc': 79}
+rlfbix -> 79 ( 467 )
+ - {'rjkumo': 97, 'ieiha': 97, 'rjhws': 97, 'bokni': 97}
+rludm -> 351 ( 413 )
+ - {'djpvps': 31, 'sletcp': 31}
+rlyui -> 73 ( 73 )
+rmbzvq -> 19 ( 19 )
+rnibhd -> 69 ( 69 )
+rnkvgzf -> 78 ( 78 )
+rnvvg -> 456 ( 1008 )
+ - {'dkjfjwe': 184, 'pbeez': 184, 'cjinsf': 184}
+rnzpmw -> 92 ( 92 )
+robfhmz -> 77 ( 77 )
+rodegh -> 88 ( 88 )
+rpiefl -> 120 ( 256 )
+ - {'xqmhigw': 34, 'ugeucjn': 34, 'brdpdm': 34, 'cjnkge': 34}
+rpjlb -> 68 ( 68 )
+rppgdnf -> 11 ( 295 )
+ - {'tbkxpdv': 71, 'vugudp': 71, 'etyqg': 71, 'zlbfpnu': 71}
+rptgp -> 296 ( 410 )
+ - {'rjumsra': 38, 'kidbaiy': 38, 'xthyeh': 38}
+rqgccu -> 760 ( 1549 )
+ - {'cqnlk': 263, 'dbsbuqp': 263, 'qhlslym': 263}
+rqryd -> 132 ( 216 )
+ - {'qfbagb': 42, 'pmebb': 42}
+rsvudoc -> 1348 ( 2146 )
+ - {'gpvlztd': 266, 'njvsnz': 266, 'zwvtdhw': 266}
+rtwwdrh -> 417 ( 1044 )
+ - {'wbflq': 209, 'cawvue': 209, 'sierb': 209}
+ruuerqk -> 43 ( 43 )
+ruzgpq -> 84 ( 84 )
+rvzkv -> 70 ( 298 )
+ - {'oseqshg': 76, 'wgsgyv': 76, 'neafgd': 76}
+rwjlopt -> 11 ( 255 )
+ - {'xqsufx': 61, 'zjioec': 61, 'bjwgltq': 61, 'naseaj': 61}
+rwkuzs -> 29 ( 29 )
+rxerq -> 168 ( 248 )
+ - {'ydfmxw': 20, 'seyiftq': 20, 'ezgvb': 20, 'uoyzsdf': 20}
+ryhlz -> 56 ( 56 )
+rypyfha -> 95 ( 95 )
+rzaocr -> 98 ( 98 )
+sbogacc -> 264 ( 330 )
+ - {'qcsjl': 33, 'wttimqr': 33}
+scghvn -> 98 ( 98 )
+scsxe -> 49 ( 49 )
+sctzxf -> 88 ( 88 )
+sdlcqtb -> 76 ( 176 )
+ - {'gfepc': 50, 'hxkatz': 50}
+sdnwo -> 75 ( 75 )
+sdqzod -> 44 ( 44 )
+selfpoj -> 46 ( 354 )
+ - {'liida': 77, 'xsepbvk': 77, 'ywhmyp': 77, 'dyaayff': 77}
+seyiftq -> 20 ( 20 )
+sfpveq -> 38 ( 38 )
+sfxng -> 33 ( 33 )
+sfztpf -> 84 ( 84 )
+shfyok -> 14 ( 14 )
+shyxe -> 93 ( 93 )
+sieovol -> 231 ( 231 )
+sierb -> 113 ( 209 )
+ - {'iaini': 32, 'asihmc': 32, 'wepwf': 32}
+sigya -> 98 ( 98 )
+sihgu -> 99 ( 99 )
+siujrb -> 42 ( 42 )
+siulcz -> 93 ( 93 )
+sjmci -> 54 ( 54 )
+skouwt -> 671 ( 2673 )
+ - {'uzqnl': 286, 'edbemy': 286, 'ckgotfs': 286, 'kpmyxk': 286, 'qvjwgkp': 286, 'gghqilu': 286, 'nhtxs': 286}
+sletcp -> 31 ( 31 )
+slolo -> 7 ( 7 )
+slsrzl -> 60 ( 264 )
+ - {'fqskwj': 51, 'jvneo': 51, 'lhypfq': 51, 'mwbpro': 51}
+smaygo -> 4616 ( 48292 )
+ - {'fbnbt': 14556, 'hmgrlpj': 14564, 'nfdvsc': 14556}
+smvodeb -> 124 ( 124 )
+snluaf -> 45 ( 45 )
+soixton -> 66 ( 66 )
+solooh -> 188 ( 330 )
+ - {'fmfkcp': 71, 'ffcwobn': 71}
+sqcwjaa -> 22 ( 22 )
+sqygj -> 848 ( 944 )
+ - {'ckswfrb': 48, 'jiwpf': 48}
+srgfuk -> 109 ( 211 )
+ - {'ienee': 34, 'uwmbh': 34, 'hewzwp': 34}
+srpcy -> 91 ( 91 )
+srqrs -> 46 ( 46 )
+sspayll -> 39 ( 39 )
+sspng -> 199 ( 293 )
+ - {'mnvfi': 47, 'dkcrll': 47}
+stgickl -> 229 ( 303 )
+ - {'kozlia': 37, 'znuin': 37}
+stguc -> 133 ( 257 )
+ - {'evqfv': 62, 'lkuelr': 62}
+stkvqy -> 78 ( 78 )
+suhso -> 32 ( 32 )
+suupi -> 76 ( 76 )
+suyzrmf -> 155 ( 255 )
+ - {'cndqzdm': 50, 'ybfyes': 50}
+svsgzi -> 45 ( 433 )
+ - {'xexswl': 97, 'gwlrdbk': 97, 'nsdver': 97, 'oidmfs': 97}
+swtks -> 14 ( 14 )
+swwtm -> 18 ( 18 )
+swxncwt -> 34 ( 166 )
+ - {'zwekns': 66, 'reeuuic': 66}
+sxrzzuy -> 13 ( 401 )
+ - {'igblzk': 97, 'itluk': 97, 'hcorylb': 97, 'ybjbz': 97}
+sxxnze -> 25 ( 25 )
+sxzwplf -> 19 ( 19 )
+sydqf -> 31 ( 303 )
+ - {'rpjlb': 68, 'mjseecw': 68, 'ohyrn': 68, 'yzexxy': 68}
+syfccrr -> 92 ( 92 )
+syhjziw -> 24 ( 24 )
+syjew -> 204 ( 381 )
+ - {'xgdolgm': 59, 'tgtrjko': 59, 'jngbnk': 59}
+szcqd -> 260 ( 314 )
+ - {'tnngnq': 27, 'gpzqcqk': 27}
+taizyha -> 45 ( 45 )
+tasqwda -> 95 ( 95 )
+tbfce -> 5 ( 2070 )
+ - {'mjmskc': 413, 'pwdziu': 413, 'vozygf': 413, 'wgjrzd': 413, 'rludm': 413}
+tbkxpdv -> 71 ( 71 )
+tboimc -> 18 ( 410 )
+ - {'sigya': 98, 'ieeecih': 98, 'zvqupa': 98, 'scghvn': 98}
+tbure -> 39 ( 39 )
+tchaqbm -> 121 ( 256 )
+ - {'snluaf': 45, 'kpxrk': 45, 'uvjevu': 45}
+tchfafn -> 31649 ( 48284 )
+ - {'qrxso': 5545, 'xoedja': 5545, 'fapkonf': 5545}
+tcmexa -> 322 ( 344 )
+ - {'pqmyl': 11, 'xhueuj': 11}
+tecducv -> 151 ( 319 )
+ - {'ftrzswp': 84, 'sfztpf': 84}
+tfjadw -> 41 ( 41 )
+tfregkr -> 53 ( 121 )
+ - {'tnntrax': 34, 'jfuzgpw': 34}
+tfzsqj -> 89 ( 14320 )
+ - {'pvnfa': 2033, 'eqxce': 2033, 'jbaxm': 2033, 'pqknhsq': 2033, 'hyxxm': 2033, 'hbmzilw': 2033, 'fhbjovx': 2033}
+tgtrjko -> 59 ( 59 )
+tgvzdov -> 40 ( 190 )
+ - {'angyt': 75, 'pubgkhb': 75}
+thablkl -> 18 ( 18 )
+thzvetu -> 65 ( 65 )
+tijgc -> 94 ( 94 )
+tjjkgb -> 69 ( 69 )
+tjnuf -> 180 ( 202 )
+ - {'qclnd': 11, 'mwkct': 11}
+tjwodb -> 63 ( 63 )
+tkdsfz -> 17 ( 17 )
+tkgkl -> 40 ( 40 )
+tkhgo -> 59 ( 59 )
+tkoxc -> 1050 ( 16072 )
+ - {'kixlvf': 2146, 'ogjeuhl': 2146, 'tthmac': 2146, 'pmafsug': 2146, 'qpycn': 2146, 'rsvudoc': 2146, 'jbaztvm': 2146}
+tkqdly -> 21 ( 21 )
+tksiwle -> 78 ( 202 )
+ - {'pwmqpk': 62, 'xjwvvik': 62}
+tlfaxub -> 92 ( 92 )
+tlnffr -> 58 ( 58 )
+tmbkt -> 94 ( 94 )
+tmmwda -> 70 ( 160 )
+ - {'fqyogt': 45, 'ootknbf': 45}
+tnngnq -> 27 ( 27 )
+tnntrax -> 34 ( 34 )
+tntib -> 246 ( 268 )
+ - {'aubapo': 11, 'ldypun': 11}
+touatc -> 80 ( 80 )
+tpezujs -> 41 ( 41 )
+tpjuj -> 24 ( 1926 )
+ - {'tyajj': 317, 'fnvptes': 317, 'bjtlzzh': 317, 'izjeb': 317, 'kfxcot': 317, 'wvhdyg': 317}
+tpvvbr -> 974 ( 1622 )
+ - {'unuvi': 216, 'ctoruu': 216, 'rqryd': 216}
+tqqldx -> 74 ( 74 )
+tqyte -> 225 ( 319 )
+ - {'wdyxx': 47, 'xpzymh': 47}
+tqzmvz -> 80 ( 80 )
+trnpdnb -> 78 ( 78 )
+tthmac -> 1206 ( 2146 )
+ - {'pvzjsbf': 235, 'maubg': 235, 'jpeehl': 235, 'qewavw': 235}
+ttiaks -> 9 ( 9 )
+tubcr -> 46 ( 46 )
+tujzoy -> 91 ( 91 )
+tvtgaan -> 27 ( 27 )
+twfzzyt -> 175 ( 267 )
+ - {'rdomi': 46, 'pcwawh': 46}
+twngkp -> 59 ( 59 )
+twogxyg -> 11 ( 11 )
+twxtbol -> 49 ( 49 )
+twzglew -> 14 ( 14 )
+txkog -> 46 ( 46 )
+txyqy -> 178 ( 204 )
+ - {'lfoiu': 13, 'bbiczh': 13}
+txzlem -> 467 ( 467 )
+tyajj -> 135 ( 317 )
+ - {'jvhjtv': 91, 'pxupwhx': 91}
+tybjmqm -> 372 ( 372 )
+tytbgx -> 6588 ( 48284 )
+ - {'darwcoj': 10424, 'uqqclia': 10424, 'ynseh': 10424, 'eooiuq': 10424}
+tzpxj -> 134 ( 160 )
+ - {'ujhkl': 13, 'gwvhjfe': 13}
+uaguc -> 25 ( 25 )
+uaknxb -> 99 ( 99 )
+uamaay -> 43 ( 229 )
+ - {'ucjeppl': 93, 'lfmzadj': 93}
+uasrsi -> 95 ( 167 )
+ - {'vdgvmd': 18, 'bvdnvep': 18, 'cujdv': 18, 'vzldrq': 18}
+ubhsnqw -> 20 ( 20 )
+ubllrlw -> 8 ( 8 )
+ubnap -> 21 ( 21 )
+ubqbhos -> 87 ( 87 )
+ubrevf -> 62 ( 62 )
+ucjeppl -> 93 ( 93 )
+uembuig -> 39 ( 39 )
+ugeucjn -> 34 ( 34 )
+ugujla -> 78 ( 2202 )
+ - {'kdsscve': 354, 'fdurqvg': 354, 'selfpoj': 354, 'uiyxk': 354, 'jarvx': 354, 'fybpzfy': 354}
+uhukwcq -> 151 ( 253 )
+ - {'pnncrgq': 51, 'yuepo': 51}
+uiyxk -> 204 ( 354 )
+ - {'qnpzxal': 75, 'vgysvve': 75}
+ujhkl -> 13 ( 13 )
+ukkmfh -> 76 ( 76 )
+ulacz -> 412 ( 426 )
+ - {'ghzvdod': 7, 'jkfce': 7}
+ulkpoko -> 68 ( 68 )
+umjdo -> 69 ( 69 )
+umkwllw -> 7 ( 7 )
+umopgq -> 31 ( 31 )
+umwer -> 17 ( 17 )
+unfpyg -> 24 ( 24 )
+unuvi -> 52 ( 216 )
+ - {'qcdsvv': 82, 'pvxof': 82}
+uoyzsdf -> 20 ( 20 )
+upeezd -> 564 ( 1926 )
+ - {'fjhht': 227, 'nvkqru': 227, 'ozjzmh': 227, 'jorbfl': 227, 'fzbbm': 227, 'wrzwgxf': 227}
+uqajm -> 62 ( 62 )
+uqqclia -> 4793 ( 10424 )
+ - {'ohitm': 1877, 'ashxpav': 1877, 'gtmcr': 1877}
+uraugcn -> 73 ( 73 )
+urqoabs -> 21 ( 21 )
+urxzo -> 145 ( 209 )
+ - {'nxnjrzj': 16, 'aqxdf': 16, 'fcbeagx': 16, 'ntqdxv': 16}
+uryqiso -> 183 ( 221 )
+ - {'rmbzvq': 19, 'lvpdwy': 19}
+usevrmp -> 96 ( 96 )
+usfzaf -> 25 ( 25 )
+uspjc -> 84 ( 84 )
+utdhy -> 100 ( 212 )
+ - {'vkybxfk': 56, 'owkjav': 56}
+utizol -> 25 ( 25 )
+utvdgr -> 22 ( 22 )
+uufmp -> 60 ( 60 )
+uvcsl -> 13 ( 13 )
+uvdpata -> 131 ( 223 )
+ - {'tubcr': 46, 'emigqf': 46}
+uvhyl -> 23 ( 23 )
+uvjevu -> 45 ( 45 )
+uwmbh -> 34 ( 34 )
+uwopuvj -> 17 ( 17 )
+uxddlkq -> 32 ( 32 )
+uxqlce -> 57 ( 57 )
+uyfzha -> 50 ( 50 )
+uymwt -> 24 ( 24 )
+uyuyq -> 95 ( 95 )
+uzbqa -> 376 ( 410 )
+ - {'umwer': 17, 'iazmq': 17}
+uzqnl -> 220 ( 286 )
+ - {'xyhoa': 33, 'sfxng': 33}
+vbusaxq -> 68 ( 68 )
+vcrsnrf -> 11 ( 11 )
+vdgvmd -> 18 ( 18 )
+vdtdpz -> 84 ( 84 )
+veegvvc -> 53 ( 53 )
+vgysvve -> 75 ( 75 )
+vhusoux -> 1834 ( 2626 )
+ - {'bzvqqp': 264, 'slsrzl': 264, 'cnhsgdv': 264}
+vinbva -> 278 ( 330 )
+ - {'zfswj': 26, 'jpjezb': 26}
+viubix -> 10 ( 10 )
+vjcexcx -> 86 ( 86 )
+vjmzqbb -> 89 ( 89 )
+vjstu -> 84 ( 84 )
+vkgqysh -> 47 ( 323 )
+ - {'aebhvbk': 92, 'epubm': 92, 'cpmxvjn': 92}
+vkikri -> 82 ( 82 )
+vkpnxs -> 64 ( 64 )
+vkybxfk -> 56 ( 56 )
+vlbkhb -> 93 ( 93 )
+vljijeh -> 150 ( 166 )
+ - {'evmkzjr': 8, 'xfwgll': 8}
+vlysbd -> 71 ( 71 )
+vnlcfxn -> 42 ( 42 )
+vozygf -> 134 ( 413 )
+ - {'yiozhnf': 93, 'hxscfiv': 93, 'fzyftv': 93}
+vpvcum -> 91 ( 267 )
+ - {'nvlpgon': 88, 'sctzxf': 88}
+vqntk -> 21 ( 377 )
+ - {'hobnerj': 89, 'yxavos': 89, 'mzrze': 89, 'kyokkl': 89}
+vqumdju -> 45 ( 45 )
+vrbjw -> 57 ( 57 )
+vrezl -> 66 ( 66 )
+vrndjn -> 19 ( 19 )
+vruiy -> 711 ( 2272 )
+ - {'onmod': 223, 'uvdpata': 223, 'ggzzt': 223, 'aenvjl': 223, 'lrxyqgr': 223, 'jbwoozn': 223, 'daiyp': 223}
+vsvyj -> 242 ( 242 )
+vsyolk -> 299 ( 299 )
+vtdyp -> 180 ( 327 )
+ - {'vucwhs': 49, 'cfihl': 49, 'twxtbol': 49}
+vtewtb -> 85 ( 157 )
+ - {'hyywt': 18, 'baljt': 18, 'thablkl': 18, 'insvmt': 18}
+vtqpilo -> 75 ( 75 )
+vucwhs -> 49 ( 49 )
+vugudp -> 71 ( 71 )
+vuldc -> 70 ( 70 )
+vurdsd -> 91 ( 91 )
+vusafsv -> 6 ( 2673 )
+ - {'ngonq': 381, 'csdrrx': 381, 'awysiko': 381, 'azfkwzp': 381, 'ivxnetm': 381, 'qlesgoz': 381, 'syjew': 381}
+vvukaca -> 50 ( 50 )
+vwrhg -> 72 ( 72 )
+vxbio -> 75 ( 75 )
+vxfpzku -> 797 ( 1549 )
+ - {'zibll': 188, 'fzqdsv': 188, 'kqdus': 188, 'olylo': 188}
+vzeuayg -> 10 ( 10 )
+vzldrq -> 18 ( 18 )
+vzlvim -> 10 ( 10 )
+vznfkp -> 97 ( 285 )
+ - {'tijgc': 94, 'zfngau': 94}
+wahfxls -> 88 ( 88 )
+wavmnm -> 65 ( 65 )
+wawkzh -> 16 ( 16 )
+wbflq -> 145 ( 209 )
+ - {'wdwfjh': 32, 'suhso': 32}
+wcvxg -> 81 ( 81 )
+wdqjl -> 88 ( 88 )
+wdwfjh -> 32 ( 32 )
+wdyxx -> 47 ( 47 )
+weaier -> 96 ( 96 )
+wepwf -> 32 ( 32 )
+werlnym -> 34 ( 16072 )
+ - {'byhatd': 2673, 'skouwt': 2673, 'gdneruv': 2673, 'vusafsv': 2673, 'wusxwq': 2673, 'hvgum': 2673}
+wevbhta -> 63 ( 63 )
+wgjrzd -> 93 ( 413 )
+ - {'grqtsex': 80, 'lclxb': 80, 'grbpi': 80, 'touatc': 80}
+wgkxy -> 141 ( 253 )
+ - {'ryhlz': 56, 'ohjax': 56}
+wgsgyv -> 76 ( 76 )
+whrdhq -> 2578 ( 2626 )
+ - {'dgjqciq': 24, 'uymwt': 24}
+wijfihq -> 156 ( 216 )
+ - {'zauue': 20, 'mgqziu': 20, 'egrlfh': 20}
+wjmbivd -> 63 ( 327 )
+ - {'mqafr': 88, 'dwhxnif': 88, 'rodegh': 88}
+wjyekj -> 56 ( 56 )
+wklmecc -> 66 ( 291 )
+ - {'amgrlkr': 75, 'vtqpilo': 75, 'nnnfykw': 75}
+wlcjt -> 298 ( 298 )
+wlczi -> 246 ( 330 )
+ - {'xronh': 42, 'yxotxz': 42}
+wlfngqq -> 484 ( 2272 )
+ - {'zfgqhf': 298, 'wlcjt': 298, 'pgvds': 298, 'rvzkv': 298, 'igoifwl': 298, 'azycte': 298}
+wlodpu -> 65 ( 65 )
+wlxwq -> 70 ( 70 )
+wnaykx -> 68 ( 68 )
+wohpoh -> 75 ( 75 )
+woqvn -> 54 ( 54 )
+wqtku -> 66 ( 66 )
+wrnmwy -> 20 ( 20 )
+wrquv -> 50 ( 212 )
+ - {'zlxxdjc': 54, 'mdkfx': 54, 'woqvn': 54}
+wrzwgxf -> 77 ( 227 )
+ - {'kgdtem': 75, 'kndobxz': 75}
+wttimqr -> 33 ( 33 )
+wubrts -> 330 ( 375 )
+ - {'mdwiktj': 15, 'jjsbd': 15, 'qnuusbq': 15}
+wubxbc -> 43 ( 157 )
+ - {'htqjli': 38, 'hbncy': 38, 'lpjbjju': 38}
+wufcpvr -> 72 ( 72 )
+wusxwq -> 1078 ( 2673 )
+ - {'kirvox': 319, 'pqguzw': 319, 'wxsvnj': 319, 'tecducv': 319, 'npzlka': 319}
+wuvctps -> 43 ( 43 )
+wuztvge -> 86 ( 86 )
+wvaketk -> 46 ( 46 )
+wvhdyg -> 29 ( 317 )
+ - {'dlbsqa': 96, 'zowqczm': 96, 'fnoaz': 96}
+wwoye -> 211 ( 335 )
+ - {'cixqrb': 62, 'ojhbiv': 62}
+wwpxh -> 51 ( 157 )
+ - {'aiwqhey': 53, 'luufi': 53}
+wwyuko -> 52 ( 52 )
+wxsvnj -> 205 ( 319 )
+ - {'rabdvok': 57, 'vrbjw': 57}
+wxtrq -> 340 ( 372 )
+ - {'eolll': 16, 'wawkzh': 16}
+wyucu -> 66 ( 66 )
+xazpni -> 92 ( 92 )
+xbiuhd -> 89 ( 89 )
+xckzcq -> 66 ( 66 )
+xcpuy -> 20 ( 20 )
+xcwlym -> 14 ( 14 )
+xdehk -> 63 ( 63 )
+xeeuxiz -> 33 ( 195 )
+ - {'rkevnnd': 81, 'mkqtej': 81}
+xexswl -> 97 ( 97 )
+xezse -> 11 ( 11 )
+xfwgll -> 8 ( 8 )
+xgdolgm -> 59 ( 59 )
+xgowghi -> 256 ( 410 )
+ - {'eevyny': 77, 'lkokq': 77}
+xgpmq -> 126 ( 303 )
+ - {'dkjsfxs': 59, 'gtnqtd': 59, 'dfykpx': 59}
+xhnwej -> 85 ( 85 )
+xhqxyc -> 74 ( 166 )
+ - {'avflv': 46, 'ovhos': 46}
+xhueuj -> 11 ( 11 )
+xjbmdc -> 142 ( 330 )
+ - {'ywhxoi': 94, 'tmbkt': 94}
+xjpuoil -> 31 ( 31 )
+xjszzfe -> 92 ( 92 )
+xjwvvik -> 62 ( 62 )
+xkghfhn -> 1524 ( 2202 )
+ - {'iomxv': 226, 'hdlfpj': 226, 'deqcnp': 226}
+xkzzcqt -> 93 ( 93 )
+xlyzym -> 57 ( 57 )
+xmett -> 76 ( 76 )
+xnfstk -> 61 ( 61 )
+xoedja -> 1123 ( 5545 )
+ - {'gzrfjk': 1474, 'chrzza': 1474, 'cghtkzr': 1474}
+xpjksm -> 46 ( 46 )
+xppkv -> 249 ( 750 )
+ - {'qfqkz': 167, 'rkznog': 167, 'uasrsi': 167}
+xprrajl -> 60 ( 60 )
+xpzymh -> 47 ( 47 )
+xqmhigw -> 34 ( 34 )
+xqssuna -> 10 ( 10 )
+xqsufx -> 61 ( 61 )
+xrhjl -> 216 ( 290 )
+ - {'dhrun': 37, 'ltseugc': 37}
+xronh -> 42 ( 42 )
+xrppd -> 57 ( 57 )
+xsepbvk -> 77 ( 77 )
+xtbdj -> 78 ( 78 )
+xthyeh -> 38 ( 38 )
+xubhat -> 70 ( 70 )
+xyhoa -> 33 ( 33 )
+xytulz -> 79 ( 79 )
+xzcfko -> 21 ( 198 )
+ - {'bdslm': 59, 'bywohrp': 59, 'tkhgo': 59}
+xzcix -> 91 ( 91 )
+xzjbmpu -> 323 ( 377 )
+ - {'zljgpq': 27, 'zefoig': 27}
+xzndm -> 199 ( 256 )
+ - {'hxlsxdj': 19, 'csvni': 19, 'ohapkri': 19}
+xzuedm -> 212 ( 314 )
+ - {'dnlao': 51, 'dyxtot': 51}
+yalugkr -> 75 ( 75 )
+yanat -> 33 ( 33 )
+ybfyes -> 50 ( 50 )
+ybjbz -> 97 ( 97 )
+ydehaq -> 67 ( 67 )
+ydfmxw -> 20 ( 20 )
+ydnsnh -> 29 ( 29 )
+yedwosl -> 18 ( 18 )
+yeimwk -> 56 ( 56 )
+yffnz -> 1004 ( 1376 )
+ - {'apkfhsb': 124, 'smvodeb': 124, 'ztruf': 124}
+yfwki -> 55 ( 259 )
+ - {'lcsqza': 68, 'jbsxc': 68, 'jqgjdku': 68}
+ygidtwv -> 66 ( 66 )
+ygsjv -> 137 ( 151 )
+ - {'llale': 7, 'fzqita': 7}
+yhdjwd -> 54 ( 54 )
+yibbu -> 160 ( 160 )
+yieehh -> 259 ( 401 )
+ - {'qwwmx': 71, 'lviohn': 71}
+yigwd -> 84 ( 84 )
+yiozhnf -> 93 ( 93 )
+yjbjy -> 98 ( 98 )
+ykuzfu -> 66 ( 66 )
+ymqqpug -> 93 ( 93 )
+ymxpav -> 38 ( 38 )
+ynbruov -> 14 ( 14 )
+ynseh -> 5204 ( 10424 )
+ - {'hpaeg': 1044, 'yznahfs': 1044, 'cxapyp': 1044, 'kuusoe': 1044, 'rtwwdrh': 1044}
+ynxjgv -> 72 ( 72 )
+ynzpsk -> 17 ( 17 )
+yonojr -> 53 ( 53 )
+yornm -> 149 ( 267 )
+ - {'gqcmcc': 59, 'nniqh': 59}
+yptyp -> 75 ( 75 )
+yqdsxvc -> 63 ( 63 )
+yqeuhw -> 42 ( 42 )
+yqhss -> 76 ( 76 )
+yrmqu -> 14 ( 14 )
+yrtlizo -> 291 ( 335 )
+ - {'oavnz': 22, 'letwfzz': 22}
+ysfevlj -> 205 ( 303 )
+ - {'awclg': 49, 'ooiwbe': 49}
+yshith -> 56 ( 56 )
+ysnwjl -> 29 ( 29 )
+ytbwqwb -> 51 ( 51 )
+ytqrut -> 1468 ( 1622 )
+ - {'ixukpw': 77, 'euqxp': 77}
+yuepo -> 51 ( 51 )
+yusue -> 91 ( 289 )
+ - {'pobecj': 99, 'owsoywa': 99}
+yuwoa -> 72 ( 72 )
+yuzwdix -> 43 ( 43 )
+yvdilfo -> 32 ( 32 )
+yviutlw -> 31 ( 202 )
+ - {'hirayas': 57, 'gjmkox': 57, 'xlyzym': 57}
+yvixrl -> 7 ( 1549 )
+ - {'dfywfie': 257, 'ompeys': 257, 'ialmhy': 257, 'pkpgu': 257, 'stguc': 257, 'nzakpnw': 257}
+ywacbmq -> 87 ( 87 )
+ywhmyp -> 77 ( 77 )
+ywhxoi -> 94 ( 94 )
+yxavos -> 89 ( 89 )
+yxccn -> 86 ( 242 )
+ - {'dknly': 78, 'xtbdj': 78}
+yxotxz -> 42 ( 42 )
+yyfrmb -> 15 ( 15 )
+yypfse -> 46 ( 46 )
+yzexxy -> 68 ( 68 )
+yznahfs -> 102 ( 1044 )
+ - {'jacplh': 157, 'wubxbc': 157, 'zhdwu': 157, 'digpoav': 157, 'wwpxh': 157, 'vtewtb': 157}
+zamoi -> 58 ( 58 )
+zapjqj -> 54 ( 54 )
+zauue -> 20 ( 20 )
+zbjdebj -> 73 ( 289 )
+ - {'cqxav': 72, 'ivbrype': 72, 'dukup': 72}
+zbwysvr -> 1226 ( 2202 )
+ - {'ckdwk': 244, 'lbajhe': 244, 'lnoihzx': 244, 'bjzlgik': 244}
+zdcdmle -> 97 ( 97 )
+zdelwv -> 57 ( 57 )
+zdseqzi -> 67 ( 67 )
+zeenwpx -> 22 ( 319 )
+ - {'uaknxb': 99, 'nhmrdn': 99, 'sihgu': 99}
+zefoig -> 27 ( 27 )
+zfgqhf -> 160 ( 298 )
+ - {'dbrxe': 69, 'fyubj': 69}
+zfngau -> 94 ( 94 )
+zfswj -> 26 ( 26 )
+zgcfeda -> 8 ( 8 )
+zghut -> 5 ( 5 )
+zgvpy -> 200 ( 268 )
+ - {'nxkpw': 34, 'hhpysjd': 34}
+zgxczmq -> 98 ( 98 )
+zhallzk -> 173 ( 253 )
+ - {'tkgkl': 40, 'qkmqmg': 40}
+zhdwu -> 17 ( 157 )
+ - {'gabbp': 70, 'ewalq': 70}
+zhpmkq -> 89 ( 89 )
+zibll -> 188 ( 188 )
+zixgz -> 15 ( 15 )
+zjchuge -> 20 ( 20 )
+zjioec -> 61 ( 61 )
+zkeep -> 32 ( 32 )
+zkkok -> 1239 ( 1926 )
+ - {'fufzi': 229, 'qtxfdex': 229, 'uamaay': 229}
+zknngyu -> 12 ( 344 )
+ - {'izchcj': 83, 'mzlub': 83, 'bcxnm': 83, 'itcgsx': 83}
+zkqxpbq -> 97 ( 97 )
+zlaxh -> 47 ( 47 )
+zlbfpnu -> 71 ( 71 )
+zljgpq -> 27 ( 27 )
+zlxxdjc -> 54 ( 54 )
+znuin -> 37 ( 37 )
+zoifh -> 63 ( 63 )
+zouklk -> 55 ( 55 )
+zowqczm -> 96 ( 96 )
+zrioi -> 156 ( 176 )
+ - {'hsvveid': 10, 'xqssuna': 10}
+zrvff -> 210 ( 286 )
+ - {'sfpveq': 38, 'odhwzy': 38}
+ztpysan -> 63 ( 63 )
+ztruf -> 44 ( 124 )
+ - {'gfhuv': 40, 'fcdww': 40}
+zubbg -> 1077 ( 1926 )
+ - {'fhsdpg': 283, 'hhldn': 283, 'kvyrc': 283}
+zuhkp -> 1365 ( 1833 )
+ - {'ffejzo': 156, 'bjdlb': 156, 'ihimta': 156}
+zvbnb -> 28 ( 28 )
+zvqupa -> 98 ( 98 )
+zvqyr -> 36 ( 36 )
+zvsiqwe -> 63 ( 63 )
+zwekns -> 66 ( 66 )
+zwiidh -> 85 ( 85 )
+zwvtdhw -> 84 ( 266 )
+ - {'gtkkx': 91, 'tujzoy': 91}
+zxqmj -> 20 ( 20 )
+zyqkcmb -> 130 ( 186 )
+ - {'gzilup': 14, 'oarmggv': 14, 'ynbruov': 14, 'dqvygcd': 14}
