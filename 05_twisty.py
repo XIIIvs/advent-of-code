@@ -5,9 +5,12 @@ steps = int()
 
 length = len(input_list)
 
-while index < length:
+while -1 < index < length:
     jump = input_list[index]
     steps += 1
-    input_list[index] += 1
+    if input_list[index] < 3:
+        input_list[index] += 1
+    else:
+        input_list[index] -= 1
     index += jump
-print ("steps =", steps)
+print("steps =", steps)
