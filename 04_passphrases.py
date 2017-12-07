@@ -514,9 +514,22 @@ rows = [
 ]
 
 valid_passphrases = int()
+# 
+# for row in rows:
+#     if len(row) == len(set(row)):
+#         valid_passphrases += 1
 
 for row in rows:
-    if len(row) == len(set(row)):
+    tmp = list()
+    good = True
+    for phrase in row:
+        sortedp = sorted(phrase)
+        if sortedp in tmp:
+            good = False
+            break
+        else:
+            tmp.append(sortedp)
+    if good:
         valid_passphrases += 1
 
 print("valid passphrases is", valid_passphrases)
