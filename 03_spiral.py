@@ -1,6 +1,7 @@
 puzzle_input = 368078
 # puzzle_input = 30
 
+
 def easy_read(number, place=2):
     string = str(number)
     if len(string) < place:
@@ -8,6 +9,7 @@ def easy_read(number, place=2):
         string = num_of_spaces * " " + string
     return string
 # for easy read in terminal
+
 
 def change_position(position, xdir, ydir):
     new_x = position[0] + xdir
@@ -18,7 +20,8 @@ rng = range(puzzle_input+1)
 
 rows = dict()
 rows[0] = dict()
-rows[0][0] = easy_read(1)
+# rows[0][0] = easy_read(1)
+rows[0][0] = 1
 
 row_min = 0
 row_max = 0
@@ -33,7 +36,8 @@ dir = 1
 position = (0, 0)
 
 for nr in rng[2:]:
-    value = easy_read(nr)
+    # value = easy_read(nr)
+    value = 0
 
     if dir > 0:
         position = change_position(position, xdir, 0)
@@ -43,11 +47,35 @@ for nr in rng[2:]:
     x = position[0]
     y = position[1]
 
+    if y - 1 in rows:
+        if x in rows[y - 1]:
+            value += rows[y - 1][x]
+        if x - 1 in rows[y - 1]:
+            value += rows[y - 1][x - 1]
+        if x + 1 in rows[y - 1]:
+            value += rows[y - 1][x + 1]
+
+    if y in rows:
+        if x - 1 in rows[y]:
+            value += rows[y][x - 1]
+        if x + 1 in rows[y]:
+            value += rows[y][x + 1]
+
+    if y + 1 in rows:
+        if x in rows[y + 1]:
+            value += rows[y + 1][x]
+        if x - 1 in rows[y + 1]:
+            value += rows[y + 1][x - 1]
+        if x + 1 in rows[y + 1]:
+            value += rows[y + 1][x + 1]
+
     if y not in rows:
         rows[y] = dict()
     rows[y][x] = value
 
-    print("for value", value, "number of steps is", abs(x) + abs(y), "( on position x =", x, "y =", y, ")")
+    print("for number", easy_read(nr), "is >", easy_read(value, 6), "<")
+    if value > puzzle_input:
+        break
 
     if dir > 0:
         if xdir > 0:
