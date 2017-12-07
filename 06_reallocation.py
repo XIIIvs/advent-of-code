@@ -21,3 +21,20 @@ while ans not in answers:
 
     ans = tuple(banks)
     print(ans, "steps =", steps)
+
+new_ans = int()
+loop_cnt = int()
+
+while new_ans != ans:
+    loop_cnt += 1
+    blocks = max(banks)
+    index = banks.index(blocks)
+    banks[index] = 0
+
+    for blck in range(blocks):
+        index += 1
+        index %= indexes
+        banks[index] += 1
+
+    new_ans = tuple(banks)
+    print(new_ans, "loop_cnt =", loop_cnt)
