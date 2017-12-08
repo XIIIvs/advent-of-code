@@ -9,6 +9,7 @@ def easy_read(number, place=2):
     return string
 # for easy read in terminal
 
+values = list()
 blocks = dict()
 
 def do_operation(name, op, value):
@@ -18,6 +19,7 @@ def do_operation(name, op, value):
     if op == "inc":
         blocks[name] += value
     print(" - DO:", name, op, value, "before:", before, "now:", blocks[name])
+    values.append(blocks[name])
 
 with open("input_08.txt") as file:
     for line in file:
@@ -57,3 +59,4 @@ for key in blocks:
 
 for a in sorted(answers):
     print(a)
+print("highest value:", max(values))
