@@ -76,7 +76,7 @@ class Map:
     def add_range(self, range_map: SourceToDestinationRange):
         self.range_maps.append(range_map)
 
-    def return_destination_ranges(self, source_ranges: List[SourceRange]):
+    def return_destination_ranges(self, source_ranges: List[SourceRange]) -> List[SourceRange]:
         destination_ranges = list()
         for source_range in source_ranges:
             tmp_source_range_list = [source_range]
